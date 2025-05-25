@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - chanhdai.com is my minimal portfolio website, showcasing my work and experience as a Software Developer &amp; UI/UX Designer. (3 days ago)
 - [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily (4 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (1 week ago)
 - [tunnckoCore/zodest](https://github.com/tunnckoCore/zodest) -  (1 week ago)
 - [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (1 week ago)
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
