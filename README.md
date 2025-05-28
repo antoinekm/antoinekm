@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (2 days ago)
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
-- [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (4 days ago)
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (6 days ago)
+- [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (3 days ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
+- [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (5 days ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
-- [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (1 week ago)
-- [needforschool/slides-event-architecture](https://github.com/needforschool/slides-event-architecture) -  (2 weeks ago)
+- [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (2 weeks ago)
+- [needforschool/slides-event-architecture](https://github.com/needforschool/slides-event-architecture) -  (3 weeks ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (3 weeks ago)
 - [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (2 months ago)
 - [antoinekm/antoine](https://github.com/antoinekm/antoine) - cool tools to code like me. (2 months ago)
@@ -65,7 +65,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add profile and orders](https://github.com/needforschool/excelsior/pull/6) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 week ago)
 - [✨ add auth integration](https://github.com/needforschool/excelsior/pull/5) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 week ago)
 - [🚧 add work on integration](https://github.com/needforschool/excelsior/pull/4) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 week ago)
-- [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 week ago)
+- [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
 - [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (3 weeks ago)
 - [Add Webflow Components API Support](https://github.com/webflow/mcp-server/pull/34) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (4 weeks ago)
 - [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
@@ -75,10 +75,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
-- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - chanhdai.com is my minimal portfolio website, showcasing my work and experience as a Software Developer &amp; UI/UX Designer. (5 days ago)
-- [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily (6 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - chanhdai.com is my minimal portfolio website, showcasing my work and experience as a Software Developer &amp; UI/UX Designer. (6 days ago)
+- [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily (1 week ago)
 - [ArthurDanjou/whereami](https://github.com/ArthurDanjou/whereami) - A super simple cloudflare worker that returns the location of the user based on the IP address. (1 week ago)
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management. (1 week ago)
 - [wirewirewirewire/payload-ai](https://github.com/wirewirewirewire/payload-ai) - Using GPT inside Payload CMS (1 week ago)
