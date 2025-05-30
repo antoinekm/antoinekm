@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (4 days ago)
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 days ago)
-- [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (6 days ago)
+- [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (5 days ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 week ago)
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (2 weeks ago)
@@ -66,19 +66,19 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add auth integration](https://github.com/needforschool/excelsior/pull/5) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 week ago)
 - [🚧 add work on integration](https://github.com/needforschool/excelsior/pull/4) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 week ago)
 - [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
-- [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (3 weeks ago)
+- [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (4 weeks ago)
 - [Add Webflow Components API Support](https://github.com/webflow/mcp-server/pull/34) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (1 month ago)
-- [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
+- [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 months ago)
 - [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
 - [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
 - [feat: add quick share button](https://github.com/Fork-It-Community/forkit.community/pull/284) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (today)
-- [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (today)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (1 day ago)
+- [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (1 day ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - chanhdai.com is my minimal portfolio website, showcasing my work and experience as a Software Developer &amp; UI/UX Designer. (1 week ago)
 - [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily (1 week ago)
 - [ArthurDanjou/whereami](https://github.com/ArthurDanjou/whereami) - A super simple cloudflare worker that returns the location of the user based on the IP address. (1 week ago)
