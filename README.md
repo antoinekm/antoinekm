@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (today)
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (2 days ago)
 - [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (2 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ArthurDanjou/whereami](https://github.com/ArthurDanjou/whereami) - A super simple cloudflare worker that returns the location of the user based on the IP address. (1 week ago)
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management. (1 week ago)
 - [wirewirewirewire/payload-ai](https://github.com/wirewirewirewire/payload-ai) - Using GPT inside Payload CMS (1 week ago)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
