@@ -75,6 +75,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. (today)
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (2 days ago)
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (4 days ago)
 - [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (4 days ago)
@@ -84,7 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily (1 week ago)
 - [ArthurDanjou/whereami](https://github.com/ArthurDanjou/whereami) - A super simple cloudflare worker that returns the location of the user based on the IP address. (2 weeks ago)
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management. (2 weeks ago)
-- [wirewirewirewire/payload-ai](https://github.com/wirewirewirewire/payload-ai) - Using GPT inside Payload CMS (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
