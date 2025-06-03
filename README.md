@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (today)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (1 week ago)
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 week ago)
@@ -50,19 +50,19 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.6.0](https://github.com/webflow/mcp-server/releases/tag/0.6.0), today) - Model Context Protocol (MCP) server for the Webflow Data API.
+- [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.6.0](https://github.com/webflow/mcp-server/releases/tag/0.6.0), 1 day ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 1 month ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 4 months ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 6 months ago) - The Discord Framework
 - [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 6 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 6 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [qotum/qotum](https://github.com/qotum/qotum) ([@qotum/panda-preset@1.1.10](https://github.com/qotum/qotum/releases/tag/%40qotum/panda-preset%401.1.10), 9 months ago) - @qotum&#39;s usefull tools 🧰
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 10 months ago) - Script to get your site indexed on Google in less than 48 hours
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) ([v0.4.0](https://github.com/goenning/google-indexing-script/releases/tag/v0.4.0), 11 months ago) - Script to get your site indexed on Google in less than 48 hours
 - [antoinekm/antoine](https://github.com/antoinekm/antoine) ([eslint-config-antoine@1.0.14](https://github.com/antoinekm/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 year ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add profile and orders](https://github.com/needforschool/excelsior/pull/6) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 week ago)
+- [✨ add profile and orders](https://github.com/needforschool/excelsior/pull/6) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (2 weeks ago)
 - [✨ add auth integration](https://github.com/needforschool/excelsior/pull/5) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (2 weeks ago)
 - [🚧 add work on integration](https://github.com/needforschool/excelsior/pull/4) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (2 weeks ago)
 - [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
@@ -75,10 +75,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. (today)
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (2 days ago)
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (4 days ago)
-- [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (4 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. (1 day ago)
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (3 days ago)
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (5 days ago)
+- [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (5 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - chanhdai.com is my minimal portfolio website, showcasing my work and experience as a Software Developer &amp; UI/UX Designer. (1 week ago)
