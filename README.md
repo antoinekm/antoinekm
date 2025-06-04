@@ -37,20 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 day ago)
+- [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 days ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (1 week ago)
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 week ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 weeks ago)
-- [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (2 weeks ago)
-- [needforschool/slides-event-architecture](https://github.com/needforschool/slides-event-architecture) -  (3 weeks ago)
+- [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (3 weeks ago)
+- [needforschool/slides-event-architecture](https://github.com/needforschool/slides-event-architecture) -  (4 weeks ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 month ago)
 - [needforschool/nostr-mini-twitter](https://github.com/needforschool/nostr-mini-twitter) -  (2 months ago)
 - [antoinekm/antoine](https://github.com/antoinekm/antoine) - cool tools to code like me. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.6.0](https://github.com/webflow/mcp-server/releases/tag/0.6.0), 1 day ago) - Model Context Protocol (MCP) server for the Webflow Data API.
+- [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.6.0](https://github.com/webflow/mcp-server/releases/tag/0.6.0), 2 days ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 1 month ago) - @tonightpass delicious React @styled-components
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.128](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.128), 4 months ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 6 months ago) - The Discord Framework
@@ -65,7 +65,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add profile and orders](https://github.com/needforschool/excelsior/pull/6) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (2 weeks ago)
 - [✨ add auth integration](https://github.com/needforschool/excelsior/pull/5) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (2 weeks ago)
 - [🚧 add work on integration](https://github.com/needforschool/excelsior/pull/4) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (2 weeks ago)
-- [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 weeks ago)
+- [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (3 weeks ago)
 - [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (1 month ago)
 - [Add Webflow Components API Support](https://github.com/webflow/mcp-server/pull/34) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (1 month ago)
 - [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 months ago)
@@ -75,14 +75,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. (1 day ago)
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (3 days ago)
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (5 days ago)
-- [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (5 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. (2 days ago)
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (4 days ago)
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (6 days ago)
+- [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (6 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - chanhdai.com is my minimal portfolio website, showcasing my work and experience as a Software Developer &amp; UI/UX Designer. (1 week ago)
-- [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily (1 week ago)
+- [Nutlope/billsplit](https://github.com/Nutlope/billsplit) - Split your restaurant bills easily (2 weeks ago)
 - [ArthurDanjou/whereami](https://github.com/ArthurDanjou/whereami) - A super simple cloudflare worker that returns the location of the user based on the IP address. (2 weeks ago)
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management. (2 weeks ago)
 
