@@ -62,6 +62,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(components): use explicit interfaces for component props](https://github.com/shadcn-ui/ui/pull/7605) on [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (today)
 - [[fix] add authentication and access control to ai endpoints](https://github.com/ashbuilds/payload-ai/pull/94) on [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) (1 day ago)
 - [✨ add profile and orders](https://github.com/needforschool/excelsior/pull/6) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (3 weeks ago)
 - [✨ add auth integration](https://github.com/needforschool/excelsior/pull/5) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (3 weeks ago)
@@ -71,7 +72,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Add Webflow Components API Support](https://github.com/webflow/mcp-server/pull/34) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (1 month ago)
 - [✨ add glossary](https://github.com/onRuntime/onruntime-website/pull/187) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (2 months ago)
 - [fix: maintain smart back button behavior with view transitions](https://github.com/Fork-It-Community/forkit.community/pull/292) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 months ago)
-- [feat: add related events section on event page](https://github.com/Fork-It-Community/forkit.community/pull/286) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 months ago)
 
 #### ⭐ Recent Stars
 
