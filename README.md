@@ -75,6 +75,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Kremilly/GHPinnedAPI](https://github.com/Kremilly/GHPinnedAPI) - Get your pinned repositories api (today)
+- [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages (today)
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass) -  (1 day ago)
 - [janbuchar/payload-oapi](https://github.com/janbuchar/payload-oapi) - A Payload CMS plugin for OpenAPI (3.0, 3.1) specification generation (1 day ago)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 days ago)
@@ -83,8 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (1 week ago)
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing. (2 weeks ago)
 - [mazyar-kawa/npm-downlytics](https://github.com/mazyar-kawa/npm-downlytics) -  (2 weeks ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
