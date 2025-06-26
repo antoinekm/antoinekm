@@ -83,7 +83,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass) -  (2 weeks ago)
 - [janbuchar/payload-oapi](https://github.com/janbuchar/payload-oapi) - A Payload CMS plugin for OpenAPI (3.0, 3.1) specification generation (2 weeks ago)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 weeks ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (2 weeks ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 weeks ago)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
