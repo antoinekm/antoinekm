@@ -79,7 +79,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator (3 days ago)
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. (5 days ago)
 - [JacobLinCool/node-cloudflared](https://github.com/JacobLinCool/node-cloudflared) - Cloudflared in Node. Create HTTPS tunnel in 10 seconds. Works on macOS, Linux, and Windows. (1 week ago)
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq (1 week ago)
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle (1 week ago)
 - [Kremilly/GHPinnedAPI](https://github.com/Kremilly/GHPinnedAPI) - Get your pinned repositories api (2 weeks ago)
 - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages (2 weeks ago)
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass) -  (2 weeks ago)
