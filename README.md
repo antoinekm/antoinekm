@@ -61,6 +61,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Add new CMS tools for retrieving specific collection items](https://github.com/webflow/mcp-server/pull/54) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (today)
 - [🎨 fix mailjet client configuration and improve typescript types](https://github.com/tonightpass/tonightpass/pull/1002) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (3 days ago)
 - [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (4 days ago)
 - [refactor(components): use explicit interfaces for component props](https://github.com/shadcn-ui/ui/pull/7605) on [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (2 weeks ago)
@@ -70,7 +71,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🚧 add work on integration](https://github.com/needforschool/excelsior/pull/4) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 month ago)
 - [♻️ refactor services structure to follow a more modular approach](https://github.com/onRuntime/onruntime-website/pull/232) on [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) (1 month ago)
 - [Add multilanguage support with per-language rejection phrases](https://github.com/hotheadhacker/no-as-a-service/pull/17) on [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) (2 months ago)
-- [Add Webflow Components API Support](https://github.com/webflow/mcp-server/pull/34) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (2 months ago)
 
 #### ⭐ Recent Stars
 
