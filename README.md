@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
-- [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (6 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
+- [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 week ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 weeks ago)
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management. (3 weeks ago)
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (1 month ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.125](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.125), 2 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.125](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.125), 3 days ago) - @tonightpass sdk and tools.
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.6.0](https://github.com/webflow/mcp-server/releases/tag/0.6.0), 1 month ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 2 months ago) - @tonightpass delicious React @styled-components
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 7 months ago) - The Discord Framework
@@ -61,9 +61,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [Add new CMS tools for retrieving specific collection items](https://github.com/webflow/mcp-server/pull/54) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (1 day ago)
-- [🎨 fix mailjet client configuration and improve typescript types](https://github.com/tonightpass/tonightpass/pull/1002) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (4 days ago)
-- [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (5 days ago)
+- [Add new CMS tools for retrieving specific collection items](https://github.com/webflow/mcp-server/pull/54) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (2 days ago)
+- [🎨 fix mailjet client configuration and improve typescript types](https://github.com/tonightpass/tonightpass/pull/1002) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 days ago)
+- [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (6 days ago)
 - [refactor(components): use explicit interfaces for component props](https://github.com/shadcn-ui/ui/pull/7605) on [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (3 weeks ago)
 - [[fix] add authentication and access control to ai endpoints](https://github.com/ashbuilds/payload-ai/pull/94) on [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) (3 weeks ago)
 - [✨ add profile and orders](https://github.com/needforschool/excelsior/pull/6) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (1 month ago)
@@ -74,9 +74,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (4 days ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (6 days ago)
-- [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator (6 days ago)
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (5 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 week ago)
+- [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator (1 week ago)
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. (1 week ago)
 - [JacobLinCool/node-cloudflared](https://github.com/JacobLinCool/node-cloudflared) - Cloudflared in Node. Create HTTPS tunnel in 10 seconds. Works on macOS, Linux, and Windows. (2 weeks ago)
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle (2 weeks ago)
