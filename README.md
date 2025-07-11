@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (today)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (1 week ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 week ago)
 - [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Kremilly/GHPinnedAPI](https://github.com/Kremilly/GHPinnedAPI) - Get your pinned repositories api (4 weeks ago)
 - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages (4 weeks ago)
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass) -  (4 weeks ago)
-- [janbuchar/payload-oapi](https://github.com/janbuchar/payload-oapi) - A Payload CMS plugin for OpenAPI (3.0, 3.1) specification generation (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
