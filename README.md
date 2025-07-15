@@ -73,6 +73,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api) - Free Currency Exchange Rates API with 200&#43; Currencies &amp; No Rate Limits (today)
+- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API (today)
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (4 days ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 weeks ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
@@ -81,8 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [JacobLinCool/node-cloudflared](https://github.com/JacobLinCool/node-cloudflared) - Cloudflared in Node. Create HTTPS tunnel in 10 seconds. Works on macOS, Linux, and Windows. (3 weeks ago)
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle (3 weeks ago)
 - [Kremilly/GHPinnedAPI](https://github.com/Kremilly/GHPinnedAPI) - Get your pinned repositories api (1 month ago)
-- [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages (1 month ago)
-- [shuding/liquid-glass](https://github.com/shuding/liquid-glass) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
