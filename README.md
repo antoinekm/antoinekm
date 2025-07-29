@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 weeks ago)
@@ -46,14 +47,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [needforschool/excelsior](https://github.com/needforschool/excelsior) - QuickServe project (2 months ago)
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) - @tonightpass delicious React @styled-components (2 months ago)
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) - Model Context Protocol (MCP) server for the Webflow Data API. (2 months ago)
-- [needforschool/slides-event-architecture](https://github.com/needforschool/slides-event-architecture) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt@2.2.0](https://github.com/antoinekm/dixt/releases/tag/dixt%402.2.0), today) - The Discord Framework
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.169](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.169), 2 days ago) - @tonightpass sdk and tools.
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.7.0](https://github.com/webflow/mcp-server/releases/tag/0.7.0), 2 weeks ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 3 months ago) - @tonightpass delicious React @styled-components
-- [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-worktime@2.2.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-worktime%402.2.0), 8 months ago) - The Discord Framework
 - [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 8 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 8 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [antoinekm/antoine](https://github.com/antoinekm/antoine) ([eslint-config-antoine@1.0.14](https://github.com/antoinekm/antoine/releases/tag/eslint-config-antoine%401.0.14), 1 year ago) - cool tools to code like me.
