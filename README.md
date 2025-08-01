@@ -86,8 +86,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [Connor9994](https://github.com/Connor9994)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Sherin-SEF-AI](https://github.com/Sherin-SEF-AI)
 - [matosdm](https://github.com/matosdm)
-- [lschvn](https://github.com/lschvn)
