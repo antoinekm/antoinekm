@@ -77,7 +77,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform (4 days ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (6 days ago)
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (1 week ago)
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents (1 week ago)
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. (1 week ago)
 - [Automattic/wordpress-mcp](https://github.com/Automattic/wordpress-mcp) - Make your WordPress site into a simple MCP server, exposing functionality to LLMs and AI agents. (2 weeks ago)
 - [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api) - Free Currency Exchange Rates API with 200&#43; Currencies &amp; No Rate Limits (2 weeks ago)
 - [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API (2 weeks ago)
