@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (4 days ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (6 days ago)
-- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (6 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (5 days ago)
+- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 week ago)
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (1 week ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (3 weeks ago)
 - [antoinekm/pierre](https://github.com/antoinekm/pierre) - See, Understand, Execute — A lightweight, AI-powered desktop automation system built with Node.js. Pierre enables intelligent control of your computer through natural language, offering both local and remote operation capabilities. (1 month ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.162](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.162), today) - @tonightpass sdk and tools.
-- [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-roles@3.0.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-roles%403.0.0), 6 days ago) - The Discord Framework
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.162](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.162), 1 day ago) - @tonightpass sdk and tools.
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-roles@3.0.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-roles%403.0.0), 1 week ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.7.0](https://github.com/webflow/mcp-server/releases/tag/0.7.0), 3 weeks ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 3 months ago) - @tonightpass delicious React @styled-components
 - [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 8 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
@@ -73,16 +73,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language. (today)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (1 day ago)
-- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) - This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets. (1 day ago)
-- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform (5 days ago)
+- [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language. (1 day ago)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (2 days ago)
+- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) - This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets. (2 days ago)
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform (6 days ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (1 week ago)
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (1 week ago)
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. (1 week ago)
 - [Automattic/wordpress-mcp](https://github.com/Automattic/wordpress-mcp) - Make your WordPress site into a simple MCP server, exposing functionality to LLMs and AI agents. (2 weeks ago)
-- [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api) - Free Currency Exchange Rates API with 200&#43; Currencies &amp; No Rate Limits (2 weeks ago)
-- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API (2 weeks ago)
+- [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api) - Free Currency Exchange Rates API with 200&#43; Currencies &amp; No Rate Limits (3 weeks ago)
+- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
