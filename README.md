@@ -37,11 +37,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (1 day ago)
-- [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (1 day ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (6 days ago)
+- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (2 days ago)
+- [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (2 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
-- [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (2 weeks ago)
+- [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (3 weeks ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (3 weeks ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (3 weeks ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
@@ -61,8 +61,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 🔨 My recent Pull Requests
 
 - [feat: add events organizers on locations](https://github.com/Fork-It-Community/forkit.community/pull/361) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
-- [fix: correct city id reference in download filename](https://github.com/Fork-It-Community/forkit.community/pull/360) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
-- [fix: sort upcoming major events by date and type](https://github.com/Fork-It-Community/forkit.community/pull/359) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 week ago)
+- [fix: correct city id reference in download filename](https://github.com/Fork-It-Community/forkit.community/pull/360) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 weeks ago)
+- [fix: sort upcoming major events by date and type](https://github.com/Fork-It-Community/forkit.community/pull/359) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (2 weeks ago)
 - [Add new CMS tools for retrieving specific collection items](https://github.com/webflow/mcp-server/pull/54) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (1 month ago)
 - [🎨 fix mailjet client configuration and improve typescript types](https://github.com/tonightpass/tonightpass/pull/1002) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (1 month ago)
 - [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (1 month ago)
@@ -73,14 +73,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (today)
-- [izeberg/wgus](https://github.com/izeberg/wgus) - API for Wargaming Update Service (WGUS) (today)
-- [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository) (1 day ago)
-- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui. (5 days ago)
+- [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (1 day ago)
+- [izeberg/wgus](https://github.com/izeberg/wgus) - API for Wargaming Update Service (WGUS) (1 day ago)
+- [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository) (2 days ago)
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui. (6 days ago)
 - [jhakonen/setuptools-wotmod](https://github.com/jhakonen/setuptools-wotmod) - Provides Python setuptools command `bdist_wotmod` to package any setuptools based project into a World of Tanks’ wotmod package. (1 week ago)
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (1 week ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (2 weeks ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 weeks ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 weeks ago)
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language. (2 weeks ago)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (2 weeks ago)
 
