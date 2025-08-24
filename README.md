@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (4 days ago)
-- [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (4 days ago)
+- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (5 days ago)
+- [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (5 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (2 weeks ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (3 weeks ago)
@@ -50,10 +50,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.165](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.165), 1 week ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.165](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.165), 2 weeks ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-roles@3.0.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-roles%403.0.0), 3 weeks ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.7.0](https://github.com/webflow/mcp-server/releases/tag/0.7.0), 1 month ago) - Model Context Protocol (MCP) server for the Webflow Data API.
-- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 3 months ago) - @tonightpass delicious React @styled-components
+- [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 4 months ago) - @tonightpass delicious React @styled-components
 - [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 9 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [onRuntime/kartrak](https://github.com/onRuntime/kartrak) ([v0.0.15](https://github.com/onRuntime/kartrak/releases/tag/v0.0.15), 9 months ago) - Le suivi d&#39;activité tourné vers l&#39;écologie.
 - [antoinekm/antoine](https://github.com/antoinekm/antoine) ([eslint-config-antoine@1.0.14](https://github.com/antoinekm/antoine/releases/tag/eslint-config-antoine%401.0.14), 2 years ago) - cool tools to code like me.
@@ -73,10 +73,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (today)
-- [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (3 days ago)
-- [izeberg/wgus](https://github.com/izeberg/wgus) - API for Wargaming Update Service (WGUS) (3 days ago)
-- [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository) (4 days ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 day ago)
+- [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (4 days ago)
+- [izeberg/wgus](https://github.com/izeberg/wgus) - API for Wargaming Update Service (WGUS) (4 days ago)
+- [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository) (5 days ago)
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui. (1 week ago)
 - [jhakonen/setuptools-wotmod](https://github.com/jhakonen/setuptools-wotmod) - Provides Python setuptools command `bdist_wotmod` to package any setuptools based project into a World of Tanks’ wotmod package. (1 week ago)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (2 weeks ago)
