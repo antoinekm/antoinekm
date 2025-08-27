@@ -73,10 +73,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (today)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 days ago)
-- [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (6 days ago)
-- [izeberg/wgus](https://github.com/izeberg/wgus) - API for Wargaming Update Service (WGUS) (6 days ago)
+- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (1 day ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (4 days ago)
+- [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (1 week ago)
+- [izeberg/wgus](https://github.com/izeberg/wgus) - API for Wargaming Update Service (WGUS) (1 week ago)
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository) (1 week ago)
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui. (1 week ago)
 - [jhakonen/setuptools-wotmod](https://github.com/jhakonen/setuptools-wotmod) - Provides Python setuptools command `bdist_wotmod` to package any setuptools based project into a World of Tanks’ wotmod package. (2 weeks ago)
