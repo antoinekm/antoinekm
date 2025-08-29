@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 day ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 day ago)
 - [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (2 days ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (1 week ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (4 weeks ago)
-- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (1 month ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (1 month ago)
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (1 month ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [tonightpass/.github](https://github.com/tonightpass/.github) -  (2 months ago)
@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui. (today)
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (3 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (6 days ago)
 - [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [jhakonen/setuptools-wotmod](https://github.com/jhakonen/setuptools-wotmod) - Provides Python setuptools command `bdist_wotmod` to package any setuptools based project into a World of Tanks’ wotmod package. (2 weeks ago)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (3 weeks ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 weeks ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
