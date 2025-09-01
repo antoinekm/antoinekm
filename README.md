@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (today)
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui. (3 days ago)
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (6 days ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui. (2 weeks ago)
 - [jhakonen/setuptools-wotmod](https://github.com/jhakonen/setuptools-wotmod) - Provides Python setuptools command `bdist_wotmod` to package any setuptools based project into a World of Tanks’ wotmod package. (2 weeks ago)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (3 weeks ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
