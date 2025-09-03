@@ -60,6 +60,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (today)
+- [fix: export all types from &#39;./types&#39; for improved accessibility](https://github.com/garmeeh/next-seo/pull/1569) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (today)
 - [feat: add events organizers on locations](https://github.com/Fork-It-Community/forkit.community/pull/361) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 weeks ago)
 - [fix: correct city id reference in download filename](https://github.com/Fork-It-Community/forkit.community/pull/360) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 weeks ago)
 - [fix: sort upcoming major events by date and type](https://github.com/Fork-It-Community/forkit.community/pull/359) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 weeks ago)
@@ -68,8 +70,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (2 months ago)
 - [refactor(components): use explicit interfaces for component props](https://github.com/shadcn-ui/ui/pull/7605) on [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (2 months ago)
 - [[fix] add authentication and access control to ai endpoints](https://github.com/ashbuilds/payload-ai/pull/94) on [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) (2 months ago)
-- [✨ add profile and orders](https://github.com/needforschool/excelsior/pull/6) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (3 months ago)
-- [✨ add auth integration](https://github.com/needforschool/excelsior/pull/5) on [needforschool/excelsior](https://github.com/needforschool/excelsior) (3 months ago)
 
 #### ⭐ Recent Stars
 
