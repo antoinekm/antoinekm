@@ -38,8 +38,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (today)
-- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (2 days ago)
+- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 day ago)
+- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (3 days ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (2 weeks ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.189](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.189), today) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.189](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.189), 1 day ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-roles@3.0.0](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-roles%403.0.0), 1 month ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([0.7.0](https://github.com/webflow/mcp-server/releases/tag/0.7.0), 1 month ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 4 months ago) - @tonightpass delicious React @styled-components
@@ -60,11 +60,11 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 days ago)
-- [fix: export all types from &#39;./types&#39; for improved accessibility](https://github.com/garmeeh/next-seo/pull/1569) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 days ago)
+- [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 days ago)
+- [fix: export all types from &#39;./types&#39; for improved accessibility](https://github.com/garmeeh/next-seo/pull/1569) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 days ago)
 - [feat: add events organizers on locations](https://github.com/Fork-It-Community/forkit.community/pull/361) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 weeks ago)
-- [fix: correct city id reference in download filename](https://github.com/Fork-It-Community/forkit.community/pull/360) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 weeks ago)
-- [fix: sort upcoming major events by date and type](https://github.com/Fork-It-Community/forkit.community/pull/359) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 weeks ago)
+- [fix: correct city id reference in download filename](https://github.com/Fork-It-Community/forkit.community/pull/360) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
+- [fix: sort upcoming major events by date and type](https://github.com/Fork-It-Community/forkit.community/pull/359) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (1 month ago)
 - [Add new CMS tools for retrieving specific collection items](https://github.com/webflow/mcp-server/pull/54) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (2 months ago)
 - [🎨 fix mailjet client configuration and improve typescript types](https://github.com/tonightpass/tonightpass/pull/1002) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (2 months ago)
 - [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (2 months ago)
@@ -73,13 +73,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 day ago)
-- [bkdevs/async-server](https://github.com/bkdevs/async-server) - It&#39;s like Claude Code &#43; Linear &#43; GitHub PR (2 days ago)
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers (3 days ago)
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (4 days ago)
+- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (2 days ago)
+- [bkdevs/async-server](https://github.com/bkdevs/async-server) - It&#39;s like Claude Code &#43; Linear &#43; GitHub PR (3 days ago)
+- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers (4 days ago)
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (5 days ago)
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui. (1 week ago)
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (1 week ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (2 weeks ago)
 - [izeberg/wot-src](https://github.com/izeberg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (2 weeks ago)
 - [izeberg/wgus](https://github.com/izeberg/wgus) - API for Wargaming Update Service (WGUS) (2 weeks ago)
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository) (2 weeks ago)
