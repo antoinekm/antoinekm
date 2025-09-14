@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (today)
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. (6 days ago)
 - [htmldocs-js/htmldocs](https://github.com/htmldocs-js/htmldocs) - The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind (6 days ago)
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages. (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (1 week ago)
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui. (2 weeks ago)
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (2 weeks ago)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
