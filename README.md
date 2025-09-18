@@ -82,7 +82,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers (2 weeks ago)
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (2 weeks ago)
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui. (2 weeks ago)
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (3 weeks ago)
+- [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports blocking your dev work. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
