@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [anchordotdev/nextjs-lclhost-starter](https://github.com/anchordotdev/nextjs-lclhost-starter) - A starter project using NextJS and lcl.host for HTTPS in development (today)
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) -  (2 days ago)
 - [Sacobrt/cyclic-table](https://github.com/Sacobrt/cyclic-table) - A small interactive Next.js app that generates and visualizes &#34;cyclic&#34; numbered tables (spiral or center-out layouts). (3 days ago)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 weeks ago)
 - [bkdevs/async-server](https://github.com/bkdevs/async-server) - It&#39;s like Claude Code &#43; Linear &#43; GitHub PR (3 weeks ago)
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers (3 weeks ago)
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
