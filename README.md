@@ -44,8 +44,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 month ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (1 month ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (2 months ago)
-- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (2 months ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (2 months ago)
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (2 months ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
