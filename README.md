@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-presence@5.0.5](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-presence%405.0.5), today) - The Discord Framework
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), today) - The Discord Framework
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.209](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.209), 3 days ago) - @tonightpass sdk and tools.
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 2 weeks ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 5 months ago) - @tonightpass delicious React @styled-components
