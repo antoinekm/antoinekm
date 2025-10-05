@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [zS1L3NT/ts-npm-ytmusic-api](https://github.com/zS1L3NT/ts-npm-ytmusic-api) - A type-safe and basic YouTube Music API wrapper (today)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (6 days ago)
 - [anchordotdev/nextjs-lclhost-starter](https://github.com/anchordotdev/nextjs-lclhost-starter) - A starter project using NextJS and lcl.host for HTTPS in development (1 week ago)
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  (1 week ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [htmldocs-js/htmldocs](https://github.com/htmldocs-js/htmldocs) - The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind (3 weeks ago)
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages. (4 weeks ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 month ago)
-- [bkdevs/async-server](https://github.com/bkdevs/async-server) - It&#39;s like Claude Code &#43; Linear &#43; GitHub PR (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
