@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (today)
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (2 weeks ago)
 - [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components. (3 weeks ago)
 - [peterldowns/localias](https://github.com/peterldowns/localias) - custom local domain aliases for local dev servers (1 month ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  (1 month ago)
 - [Sacobrt/cyclic-table](https://github.com/Sacobrt/cyclic-table) - A small interactive Next.js app that generates and visualizes &#34;cyclic&#34; numbered tables (spiral or center-out layouts). (1 month ago)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (1 month ago)
-- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
