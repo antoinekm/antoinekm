@@ -73,6 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (today)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 week ago)
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (3 weeks ago)
 - [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components. (1 month ago)
@@ -82,7 +83,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [anchordotdev/nextjs-lclhost-starter](https://github.com/anchordotdev/nextjs-lclhost-starter) - A starter project using NextJS and lcl.host for HTTPS in development (1 month ago)
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  (1 month ago)
 - [Sacobrt/cyclic-table](https://github.com/Sacobrt/cyclic-table) - A small interactive Next.js app that generates and visualizes &#34;cyclic&#34; numbered tables (spiral or center-out layouts). (1 month ago)
-- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
