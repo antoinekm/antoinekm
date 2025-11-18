@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (1 month ago)
@@ -54,7 +54,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 1 month ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 2 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 6 months ago) - @tonightpass delicious React @styled-components
-- [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 11 months ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
+- [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 1 year ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [antoinekm/antoine](https://github.com/antoinekm/antoine) ([eslint-config-antoine@1.0.14](https://github.com/antoinekm/antoine/releases/tag/eslint-config-antoine%401.0.14), 2 years ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
@@ -72,8 +72,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (1 day ago)
-- [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (1 day ago)
+- [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (2 days ago)
+- [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (2 days ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 week ago)
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (3 weeks ago)
 - [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components. (1 month ago)
