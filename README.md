@@ -54,7 +54,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 1 month ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 2 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 7 months ago) - @tonightpass delicious React @styled-components
-- [antoinekm/staging](https://github.com/antoinekm/staging) ([staging@0.0.7](https://github.com/antoinekm/staging/releases/tag/staging%400.0.7), 1 year ago) - Password protect your staging &amp; preview deployments. Free open-source alternative to Vercel &amp; Netlify password protection - Next.js, Nuxt, Express
 - [antoinekm/antoine](https://github.com/antoinekm/antoine) ([eslint-config-antoine@1.0.14](https://github.com/antoinekm/antoine/releases/tag/eslint-config-antoine%401.0.14), 2 years ago) - cool tools to code like me.
 
 #### 🔨 My recent Pull Requests
