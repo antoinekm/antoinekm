@@ -71,6 +71,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments &#43; billing infrastructure (today)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (3 days ago)
 - [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (1 week ago)
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (1 week ago)
@@ -80,7 +81,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [peterldowns/localias](https://github.com/peterldowns/localias) - custom local domain aliases for local dev servers (1 month ago)
 - [zS1L3NT/ts-npm-ytmusic-api](https://github.com/zS1L3NT/ts-npm-ytmusic-api) - A type-safe and basic YouTube Music API wrapper (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
-- [anchordotdev/nextjs-lclhost-starter](https://github.com/anchordotdev/nextjs-lclhost-starter) - A starter project using NextJS and lcl.host for HTTPS in development (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
