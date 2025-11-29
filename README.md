@@ -71,7 +71,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - The open source, zero webhooks payment provider (3 days ago)
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (3 days ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (6 days ago)
 - [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (1 week ago)
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (1 week ago)
