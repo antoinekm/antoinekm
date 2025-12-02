@@ -37,20 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (6 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 week ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (1 month ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (2 months ago)
-- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (2 months ago)
+- [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (3 months ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (3 months ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (4 months ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.234](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.234), 6 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.234](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.234), 1 week ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 1 month ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 2 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 7 months ago) - @tonightpass delicious React @styled-components
@@ -58,8 +58,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 months ago)
-- [fix: export all types from &#39;./types&#39; for improved accessibility](https://github.com/garmeeh/next-seo/pull/1569) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (2 months ago)
+- [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
+- [fix: export all types from &#39;./types&#39; for improved accessibility](https://github.com/garmeeh/next-seo/pull/1569) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
 - [feat: add events organizers on locations](https://github.com/Fork-It-Community/forkit.community/pull/361) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 months ago)
 - [fix: correct city id reference in download filename](https://github.com/Fork-It-Community/forkit.community/pull/360) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 months ago)
 - [fix: sort upcoming major events by date and type](https://github.com/Fork-It-Community/forkit.community/pull/359) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (3 months ago)
@@ -71,7 +71,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (5 days ago)
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (6 days ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 week ago)
 - [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (2 weeks ago)
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (2 weeks ago)
