@@ -42,7 +42,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (1 month ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (1 month ago)
-- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (2 months ago)
+- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 months ago)
 - [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (3 months ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (3 months ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (4 months ago)
@@ -79,7 +79,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (1 month ago)
 - [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components. (1 month ago)
 - [peterldowns/localias](https://github.com/peterldowns/localias) - custom local domain aliases for local dev servers (1 month ago)
-- [zS1L3NT/ts-npm-ytmusic-api](https://github.com/zS1L3NT/ts-npm-ytmusic-api) - A type-safe and basic YouTube Music API wrapper (1 month ago)
+- [zS1L3NT/ts-npm-ytmusic-api](https://github.com/zS1L3NT/ts-npm-ytmusic-api) - A type-safe and basic YouTube Music API wrapper (2 months ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 months ago)
 
 #### 👯 Check out some of my recent followers
