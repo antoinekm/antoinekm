@@ -38,7 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
-- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (2 weeks ago)
+- [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (3 weeks ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
 - [onRuntime/onruntime-website](https://github.com/onRuntime/onruntime-website) - onRuntime official website. (2 months ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (2 months ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.24](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.24), 2 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
+- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.24](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.24), 3 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.234](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.234), 2 weeks ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 2 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 2 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
@@ -72,7 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (6 days ago)
+- [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (1 week ago)
 - [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and self-hostable API to fetch favicons from any website. (1 week ago)
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (2 weeks ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (2 weeks ago)
