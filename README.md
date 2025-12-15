@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.24](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.24), 5 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
+- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.24](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.24), 6 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.234](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.234), 2 weeks ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 2 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 2 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
@@ -80,7 +80,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (4 weeks ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 month ago)
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (1 month ago)
-- [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components. (1 month ago)
+- [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components. (2 months ago)
 - [peterldowns/localias](https://github.com/peterldowns/localias) - custom local domain aliases for local dev servers (2 months ago)
 
 #### 👯 Check out some of my recent followers
