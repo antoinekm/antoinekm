@@ -44,7 +44,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (2 months ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 months ago)
 - [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (3 months ago)
-- [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (3 months ago)
+- [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (4 months ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (4 months ago)
 - [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 months ago)
 
@@ -74,7 +74,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (1 week ago)
 - [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and self-hostable API to fetch favicons from any website. (1 week ago)
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (2 weeks ago)
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (3 weeks ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (3 weeks ago)
 - [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (1 month ago)
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (1 month ago)
