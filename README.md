@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (today)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 weeks ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 month ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (3 months ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (4 months ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (4 months ago)
-- [onRuntime/onruntime-discord-bot](https://github.com/onRuntime/onruntime-discord-bot) -  (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (today)
 - [alii/al](https://github.com/alii/al) - A small, statically-typed, expression-oriented programming language. (2 days ago)
 - [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (2 weeks ago)
 - [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and self-hostable API to fetch favicons from any website. (2 weeks ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (1 month ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 month ago)
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript (2 months ago)
-- [vercel/components.build](https://github.com/vercel/components.build) - An open-source standard for building modern, composable and accessible UI components. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
