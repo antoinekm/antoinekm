@@ -37,7 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (1 day ago)
+- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (today)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.25](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.25), 2 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
+- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.25](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.25), 3 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.234](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.234), 1 month ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 2 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 3 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
@@ -59,6 +59,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Antoinekm/no follow followers](https://github.com/antoinekm/charognard/pull/2) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (today)
+- [Antoinekm/publish](https://github.com/antoinekm/charognard/pull/1) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (1 day ago)
 - [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
 - [fix: export all types from &#39;./types&#39; for improved accessibility](https://github.com/garmeeh/next-seo/pull/1569) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
 - [feat: add events organizers on locations](https://github.com/Fork-It-Community/forkit.community/pull/361) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 months ago)
@@ -66,17 +68,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [fix: sort upcoming major events by date and type](https://github.com/Fork-It-Community/forkit.community/pull/359) on [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) (4 months ago)
 - [Add new CMS tools for retrieving specific collection items](https://github.com/webflow/mcp-server/pull/54) on [webflow/mcp-server](https://github.com/webflow/mcp-server) (5 months ago)
 - [🎨 fix mailjet client configuration and improve typescript types](https://github.com/tonightpass/tonightpass/pull/1002) on [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) (5 months ago)
-- [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (5 months ago)
-- [refactor(components): use explicit interfaces for component props](https://github.com/shadcn-ui/ui/pull/7605) on [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (6 months ago)
-- [[fix] add authentication and access control to ai endpoints](https://github.com/ashbuilds/payload-ai/pull/94) on [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) (6 months ago)
+- [🚚 move from pages router to app router](https://github.com/antoinekm/antoinek.fr/pull/525) on [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (2 days ago)
-- [alii/al](https://github.com/alii/al) - A small, statically-typed, expression-oriented programming language. (4 days ago)
-- [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (2 weeks ago)
+- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (3 days ago)
+- [alii/al](https://github.com/alii/al) - A small, statically-typed, expression-oriented programming language. (5 days ago)
+- [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (3 weeks ago)
 - [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and self-hostable API to fetch favicons from any website. (3 weeks ago)
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (4 weeks ago)
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (1 month ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 month ago)
 - [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (1 month ago)
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small. (1 month ago)
