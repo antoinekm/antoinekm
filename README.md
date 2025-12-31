@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (today)
 - [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (today)
 - [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 days ago)
 - [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 days ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Antoinekm/no follow followers](https://github.com/antoinekm/charognard/pull/2) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (5 days ago)
 - [Antoinekm/publish](https://github.com/antoinekm/charognard/pull/1) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (6 days ago)
 - [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
-- [fix: export all types from &#39;./types&#39; for improved accessibility](https://github.com/garmeeh/next-seo/pull/1569) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
 
 #### ⭐ Recent Stars
 
