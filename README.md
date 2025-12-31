@@ -59,6 +59,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (today)
 - [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (today)
 - [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (today)
 - [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 days ago)
@@ -68,7 +69,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 days ago)
 - [Antoinekm/no follow followers](https://github.com/antoinekm/charognard/pull/2) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (5 days ago)
 - [Antoinekm/publish](https://github.com/antoinekm/charognard/pull/1) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (6 days ago)
-- [fix: add JsonLd and JsonLdProps exports to index](https://github.com/garmeeh/next-seo/pull/1570) on [garmeeh/next-seo](https://github.com/garmeeh/next-seo) (3 months ago)
 
 #### ⭐ Recent Stars
 
