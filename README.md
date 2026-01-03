@@ -37,13 +37,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 days ago)
+- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (3 days ago)
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (1 week ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 month ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (2 months ago)
-- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 months ago)
+- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (4 months ago)
 - [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (4 months ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (4 months ago)
 - [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (5 months ago)
@@ -59,14 +59,14 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (2 days ago)
-- [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (2 days ago)
-- [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (2 days ago)
-- [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 days ago)
-- [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 days ago)
-- [📝 add claude.md](https://github.com/onRuntime/onruntime/pull/364) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 days ago)
-- [🚚 move from polyrepo to monorepo](https://github.com/onRuntime/onruntime/pull/363) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 days ago)
-- [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (6 days ago)
+- [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 days ago)
+- [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 days ago)
+- [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 days ago)
+- [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (6 days ago)
+- [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (6 days ago)
+- [📝 add claude.md](https://github.com/onRuntime/onruntime/pull/364) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (6 days ago)
+- [🚚 move from polyrepo to monorepo](https://github.com/onRuntime/onruntime/pull/363) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (6 days ago)
+- [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (1 week ago)
 - [Antoinekm/no follow followers](https://github.com/antoinekm/charognard/pull/2) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (1 week ago)
 - [Antoinekm/publish](https://github.com/antoinekm/charognard/pull/1) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (1 week ago)
 
@@ -76,7 +76,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. - Charognard for Instagram™ (1 week ago)
 - [alii/al](https://github.com/alii/al) - A small, statically-typed, expression-oriented programming language. (1 week ago)
 - [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (4 weeks ago)
-- [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and self-hostable API to fetch favicons from any website. (4 weeks ago)
+- [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and self-hostable API to fetch favicons from any website. (1 month ago)
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider (1 month ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 month ago)
 - [railwayapp-templates/mongo-replica-set](https://github.com/railwayapp-templates/mongo-replica-set) - One click deploy a Mongo Replica Set in Railway (1 month ago)
