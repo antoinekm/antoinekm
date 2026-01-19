@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (today)
-- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (4 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (1 day ago)
+- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (5 days ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (1 month ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (3 months ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.236](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.236), 1 day ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.236](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.236), 2 days ago) - @tonightpass sdk and tools.
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.25](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.25), 3 weeks ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 3 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 4 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
@@ -72,8 +72,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter. (2 days ago)
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (6 days ago)
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter. (3 days ago)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (1 week ago)
 - [shuding/better-all](https://github.com/shuding/better-all) - Better Promise.all with automatic dependency optimization (1 week ago)
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs. (3 weeks ago)
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (3 weeks ago)
