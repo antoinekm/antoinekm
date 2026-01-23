@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (5 days ago)
-- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (5 days ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 week ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (2 months ago)
