@@ -72,6 +72,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [treosh/crux-api](https://github.com/treosh/crux-api) - A tiny (500 bytes) CrUX API wrapper that supports record &amp; history API, handles errors, and provides types. (today)
 - [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion (1 day ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (6 days ago)
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter. (1 week ago)
@@ -81,7 +82,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (1 month ago)
 - [alii/al](https://github.com/alii/al) - A small, statically-typed, expression-oriented programming language. (1 month ago)
 - [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) - An unofficial JSON API for Counter-Strike 2 in multiples languages. List of skins, cases, stickers, collections, collectibles, agents, graffiti, keys, patches and music kits. (1 month ago)
-- [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and self-hostable API to fetch favicons from any website. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
