@@ -38,9 +38,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (today)
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 days ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
-- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 week ago)
+- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 weeks ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (2 months ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (3 months ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (4 months ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.26](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.26), 4 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
+- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.26](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.26), 5 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.236](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.236), 1 week ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 3 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 4 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
@@ -59,9 +59,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 weeks ago)
-- [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 weeks ago)
-- [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 weeks ago)
+- [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 weeks ago)
+- [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 weeks ago)
+- [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 weeks ago)
 - [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (1 month ago)
 - [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (1 month ago)
 - [📝 add claude.md](https://github.com/onRuntime/onruntime/pull/364) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (1 month ago)
@@ -72,16 +72,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. (today)
-- [treosh/crux-api](https://github.com/treosh/crux-api) - A tiny (500 bytes) CrUX API wrapper that supports record &amp; history API, handles errors, and provides types. (1 day ago)
-- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion (2 days ago)
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 day ago)
+- [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. (1 day ago)
+- [treosh/crux-api](https://github.com/treosh/crux-api) - A tiny (500 bytes) CrUX API wrapper that supports record &amp; history API, handles errors, and provides types. (2 days ago)
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion (3 days ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 week ago)
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter. (1 week ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (2 weeks ago)
 - [shuding/better-all](https://github.com/shuding/better-all) - Better Promise.all with automatic dependency optimization (2 weeks ago)
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs. (1 month ago)
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (1 month ago)
-- [alii/al](https://github.com/alii/al) - A small, statically-typed, expression-oriented programming language. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
