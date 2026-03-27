@@ -37,6 +37,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) -  (today)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (2 weeks ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (4 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
@@ -46,7 +47,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (6 months ago)
 - [antoinekm/victoire](https://github.com/antoinekm/victoire) - 🏆 Any Provider. Any Model. Total Control. (6 months ago)
 - [antoinekm/wot-mod-helloword](https://github.com/antoinekm/wot-mod-helloword) -  (7 months ago)
-- [antoinekm/simple-todos-blaze](https://github.com/antoinekm/simple-todos-blaze) -  (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
