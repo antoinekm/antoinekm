@@ -58,6 +58,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(screenshot): add CLI options to cap screenshot size at the source](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/1823) on [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (today)
 - [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
@@ -67,7 +68,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🚚 move from polyrepo to monorepo](https://github.com/onRuntime/onruntime/pull/363) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [Antoinekm/no follow followers](https://github.com/antoinekm/charognard/pull/2) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (3 months ago)
-- [Antoinekm/publish](https://github.com/antoinekm/charognard/pull/1) on [antoinekm/charognard](https://github.com/antoinekm/charognard) (3 months ago)
 
 #### ⭐ Recent Stars
 
