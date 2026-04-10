@@ -38,10 +38,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (4 days ago)
+- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (5 days ago)
 - [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (1 week ago)
 - [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (1 week ago)
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (3 weeks ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 weeks ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (2 months ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (4 months ago)
@@ -50,15 +50,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.224](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.224), today) - @tonightpass sdk and tools.
-- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.27](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.27), today) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.224](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.224), 1 day ago) - @tonightpass sdk and tools.
+- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.27](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.27), 1 day ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 6 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 6 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 11 months ago) - @tonightpass delicious React @styled-components
 
 #### 🔨 My recent Pull Requests
 
-- [feat(screenshot): add CLI options to cap screenshot size at the source](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/1823) on [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (2 days ago)
+- [feat(screenshot): add CLI options to cap screenshot size at the source](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/1823) on [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (3 days ago)
 - [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
@@ -71,8 +71,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (today)
-- [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (6 days ago)
+- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (1 day ago)
+- [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (1 week ago)
 - [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government&#39;s design system (Système de Design de l&#39;État) (2 weeks ago)
 - [france-connect/sources](https://github.com/france-connect/sources) -  (2 weeks ago)
 - [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 The French Government Design system React toolkit (2 weeks ago)
