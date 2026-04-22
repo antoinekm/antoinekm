@@ -84,8 +84,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [AbdulBasit2733](https://github.com/AbdulBasit2733)
 - [ephmo](https://github.com/ephmo)
 - [sidkey](https://github.com/sidkey)
 - [Divyanshu1306](https://github.com/Divyanshu1306)
 - [srhnyldz](https://github.com/srhnyldz)
-- [Connor9994](https://github.com/Connor9994)
