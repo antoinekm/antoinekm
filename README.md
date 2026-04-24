@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (2 days ago)
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (5 days ago)
+- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (3 days ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 week ago)
 - [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (3 weeks ago)
@@ -72,8 +72,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### ⭐ Recent Stars
 
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (2 weeks ago)
-- [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (2 weeks ago)
-- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government&#39;s design system (Système de Design de l&#39;État) (4 weeks ago)
+- [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (3 weeks ago)
+- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government&#39;s design system (Système de Design de l&#39;État) (1 month ago)
 - [france-connect/sources](https://github.com/france-connect/sources) -  (1 month ago)
 - [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 The French Government Design system React toolkit (1 month ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (1 month ago)
