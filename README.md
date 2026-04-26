@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (4 days ago)
+- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (5 days ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
-- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 week ago)
-- [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (3 weeks ago)
-- [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (3 weeks ago)
+- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 weeks ago)
+- [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (4 weeks ago)
+- [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (4 weeks ago)
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (2 months ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (5 months ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (6 months ago)
@@ -67,7 +67,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [📝 add claude.md](https://github.com/onRuntime/onruntime/pull/364) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [🚚 move from polyrepo to monorepo](https://github.com/onRuntime/onruntime/pull/363) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
-- [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
+- [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 months ago)
 
 #### ⭐ Recent Stars
 
@@ -79,7 +79,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (1 month ago)
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA &amp; GRID strategies | ✨ UI | ⭐ Star to support the project! (1 month ago)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 month ago)
-- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere (1 month ago)
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere (2 months ago)
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (2 months ago)
 
 #### 👯 Check out some of my recent followers
