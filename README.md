@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (5 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (6 days ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 weeks ago)
 - [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (4 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.250](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.250), today) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.250](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.250), 1 day ago) - @tonightpass sdk and tools.
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.27](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.27), 2 weeks ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 6 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 7 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
@@ -63,10 +63,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
 - [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
-- [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
-- [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
-- [📝 add claude.md](https://github.com/onRuntime/onruntime/pull/364) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
-- [🚚 move from polyrepo to monorepo](https://github.com/onRuntime/onruntime/pull/363) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (3 months ago)
+- [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 months ago)
+- [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 months ago)
+- [📝 add claude.md](https://github.com/onRuntime/onruntime/pull/364) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 months ago)
+- [🚚 move from polyrepo to monorepo](https://github.com/onRuntime/onruntime/pull/363) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 months ago)
 - [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (4 months ago)
 
 #### ⭐ Recent Stars
