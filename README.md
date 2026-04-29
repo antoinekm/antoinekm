@@ -71,6 +71,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [ianyimi/payloadcms-redis-plugin](https://github.com/ianyimi/payloadcms-redis-plugin) - PayloadCMS v3 Redis Plugin (today)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (2 weeks ago)
 - [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (3 weeks ago)
 - [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government&#39;s design system (Système de Design de l&#39;État) (1 month ago)
@@ -80,7 +81,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA &amp; GRID strategies | ✨ UI | ⭐ Star to support the project! (1 month ago)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 month ago)
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere (2 months ago)
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
