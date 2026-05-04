@@ -45,12 +45,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (1 month ago)
 - [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (3 months ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (5 months ago)
-- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (6 months ago)
+- [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (7 months ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.256](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.256), today) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.257](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.257), 1 day ago) - @tonightpass sdk and tools.
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.27](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.27), 3 weeks ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 7 months ago) - The Discord Framework
 - [webflow/mcp-server](https://github.com/webflow/mcp-server) ([1.0.0](https://github.com/webflow/mcp-server/releases/tag/1.0.0), 7 months ago) - Model Context Protocol (MCP) server for the Webflow Data API.
@@ -71,8 +71,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data (1 day ago)
-- [ianyimi/payloadcms-redis-plugin](https://github.com/ianyimi/payloadcms-redis-plugin) - PayloadCMS v3 Redis Plugin (4 days ago)
+- [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data (2 days ago)
+- [ianyimi/payloadcms-redis-plugin](https://github.com/ianyimi/payloadcms-redis-plugin) - PayloadCMS v3 Redis Plugin (5 days ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (3 weeks ago)
 - [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (1 month ago)
 - [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government&#39;s design system (Système de Design de l&#39;État) (1 month ago)
