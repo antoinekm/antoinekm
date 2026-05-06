@@ -71,6 +71,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (today)
 - [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) -  (today)
 - [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data (4 days ago)
 - [ianyimi/payloadcms-redis-plugin](https://github.com/ianyimi/payloadcms-redis-plugin) - PayloadCMS v3 Redis Plugin (1 week ago)
@@ -80,7 +81,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [france-connect/sources](https://github.com/france-connect/sources) -  (1 month ago)
 - [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 The French Government Design system React toolkit (1 month ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (2 months ago)
-- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA &amp; GRID strategies | ✨ UI | ⭐ Star to support the project! (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
