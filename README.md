@@ -71,6 +71,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (today)
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (1 day ago)
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (4 days ago)
 - [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) -  (4 days ago)
@@ -80,7 +81,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (1 month ago)
 - [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government&#39;s design system (Système de Design de l&#39;État) (1 month ago)
 - [france-connect/sources](https://github.com/france-connect/sources) -  (1 month ago)
-- [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr) - 🇫🇷 The French Government Design system React toolkit (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
