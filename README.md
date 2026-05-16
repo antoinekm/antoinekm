@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (3 weeks ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
 - [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.265](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.265), 1 day ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.265](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.265), 2 days ago) - @tonightpass sdk and tools.
 - [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.27](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.27), 1 month ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 7 months ago) - The Discord Framework
 - [tonightpass/kitchn](https://github.com/tonightpass/kitchn) ([kitchn@1.5.0](https://github.com/tonightpass/kitchn/releases/tag/kitchn%401.5.0), 1 year ago) - @tonightpass delicious React @styled-components
@@ -70,12 +70,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (3 days ago)
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (5 days ago)
-- [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (6 days ago)
+- [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (4 days ago)
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (6 days ago)
+- [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (1 week ago)
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (1 week ago)
 - [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) -  (1 week ago)
-- [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data (1 week ago)
+- [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data (2 weeks ago)
 - [ianyimi/payloadcms-redis-plugin](https://github.com/ianyimi/payloadcms-redis-plugin) - PayloadCMS v3 Redis Plugin (2 weeks ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (1 month ago)
 - [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (1 month ago)
