@@ -69,6 +69,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (today)
 - [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (1 week ago)
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (2 weeks ago)
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (2 weeks ago)
@@ -78,7 +79,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ianyimi/payloadcms-redis-plugin](https://github.com/ianyimi/payloadcms-redis-plugin) - PayloadCMS v3 Redis Plugin (3 weeks ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (1 month ago)
 - [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) -  (1 month ago)
-- [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr) - 🇫🇷 Official french government&#39;s design system (Système de Design de l&#39;État) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
