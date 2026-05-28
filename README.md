@@ -37,20 +37,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 day ago)
-- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (6 days ago)
+- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (2 days ago)
+- [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
-- [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (1 month ago)
-- [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (1 month ago)
-- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (3 months ago)
+- [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (2 months ago)
+- [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (2 months ago)
+- [antoinekm/charognard](https://github.com/antoinekm/charognard) - 🦅 Instagram follow-for-follow browser extension. Discover, mass-follow, and track your growth. Charognard for Instagram™ (4 months ago)
 - [Fork-It-Community/forkit.community](https://github.com/Fork-It-Community/forkit.community) - Fork it! Community website source code (6 months ago)
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) - The Discord Framework (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.28](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.28), 6 days ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
+- [ashbuilds/payload-ai](https://github.com/ashbuilds/payload-ai) ([3.2.28](https://github.com/ashbuilds/payload-ai/releases/tag/3.2.28), 1 week ago) - AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.267](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.267), 1 week ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 7 months ago) - The Discord Framework
 
@@ -69,7 +69,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (2 days ago)
+- [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (3 days ago)
 - [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (2 weeks ago)
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (2 weeks ago)
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (2 weeks ago)
