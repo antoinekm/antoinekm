@@ -69,7 +69,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (1 day ago)
+- [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (2 days ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (1 week ago)
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 week ago)
 - [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (2 weeks ago)
