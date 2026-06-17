@@ -38,7 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (2 weeks ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (2 weeks ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([tonightpass@0.0.264](https://github.com/tonightpass/tonightpass/releases/tag/tonightpass%400.0.264), 4 days ago) - @tonightpass sdk and tools.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.269](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.269), today) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 8 months ago) - The Discord Framework
 
 #### 🔨 My recent Pull Requests
