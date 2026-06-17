@@ -68,6 +68,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (today)
 - [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (1 week ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (2 weeks ago)
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (2 weeks ago)
@@ -77,7 +78,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (1 month ago)
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (1 month ago)
 - [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) -  (1 month ago)
-- [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
