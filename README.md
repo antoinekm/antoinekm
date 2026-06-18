@@ -45,13 +45,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 weeks ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (4 weeks ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 months ago)
-- [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (2 months ago)
 - [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (2 months ago)
+- [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.3.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.3.0), today) - Chrome DevTools for coding agents
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.251](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.251), today) - @tonightpass sdk and tools.
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.2.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.2.0), 1 week ago) - Chrome DevTools for coding agents
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 8 months ago) - The Discord Framework
 
 #### 🔨 My recent Pull Requests
