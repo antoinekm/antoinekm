@@ -56,6 +56,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/10) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [✨ add cls-safe consent-gated adunit primitive](https://github.com/unicum-gg/unicum.gg/pull/9) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [✨ add CLS-safe consent-gated AdSlot primitive (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/8) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9]](https://github.com/unicum-gg/unicum.gg/pull/7) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [🔥 remove the &#39;no ads&#39; brand claim from home and coverage copy](https://github.com/unicum-gg/unicum.gg/pull/6) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [✨ add per-region tank pages with sitemaps and profile interlinking](https://github.com/unicum-gg/unicum.gg/pull/5) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
@@ -63,9 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add reach quick-wins: /top leaderboards, metric glossary, and cross-entity linking](https://github.com/unicum-gg/unicum.gg/pull/3) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [fix: ExtractRouteParams&lt;string&gt; rejecting array query values](https://github.com/alii/pathcat/pull/8) on [alii/pathcat](https://github.com/alii/pathcat) (2 months ago)
 - [feat(screenshot): add CLI options to cap screenshot size at the source](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/1823) on [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (2 months ago)
-- [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
-- [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
-- [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
 
 #### ⭐ Recent Stars
 
@@ -82,8 +82,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [chrisipanaque](https://github.com/chrisipanaque)
 - [IDouble](https://github.com/IDouble)
 - [AbdulBasit2733](https://github.com/AbdulBasit2733)
 - [sidkey](https://github.com/sidkey)
 - [Divyanshu1306](https://github.com/Divyanshu1306)
-- [srhnyldz](https://github.com/srhnyldz)
