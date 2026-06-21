@@ -46,7 +46,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 weeks ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 months ago)
-- [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (2 months ago)
+- [republique-vote/merkle-proofs](https://github.com/republique-vote/merkle-proofs) - 🔗 Preuves d&#39;intégrité du cahier de vote republique.vote. Chaque empreinte est publiée automatiquement après chaque vote. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -56,6 +56,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9] (re-land of PR #7)](https://github.com/unicum-gg/unicum.gg/pull/13) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model](https://github.com/unicum-gg/unicum.gg/pull/12) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [✨ add discord /wot stats bot foundation &#43; wn8/wnx/30d/top-tank enrichment](https://github.com/unicum-gg/unicum.gg/pull/11) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [✨ add CLS-safe consent-gated AdSlot primitive and revenue model (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/10) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [✨ add cls-safe consent-gated adunit primitive](https://github.com/unicum-gg/unicum.gg/pull/9) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [✨ add CLS-safe consent-gated AdSlot primitive (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/8) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
@@ -63,9 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [🔥 remove the &#39;no ads&#39; brand claim from home and coverage copy](https://github.com/unicum-gg/unicum.gg/pull/6) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [✨ add per-region tank pages with sitemaps and profile interlinking](https://github.com/unicum-gg/unicum.gg/pull/5) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [🗃️ add reproducible per-region schema baseline](https://github.com/unicum-gg/unicum.gg/pull/4) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add reach quick-wins: /top leaderboards, metric glossary, and cross-entity linking](https://github.com/unicum-gg/unicum.gg/pull/3) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [fix: ExtractRouteParams&lt;string&gt; rejecting array query values](https://github.com/alii/pathcat/pull/8) on [alii/pathcat](https://github.com/alii/pathcat) (2 months ago)
-- [feat(screenshot): add CLI options to cap screenshot size at the source](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/1823) on [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (2 months ago)
 
 #### ⭐ Recent Stars
 
