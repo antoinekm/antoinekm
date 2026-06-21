@@ -69,6 +69,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (today)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (today)
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (4 days ago)
 - [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (1 week ago)
@@ -78,7 +79,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (1 month ago)
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (1 month ago)
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (1 month ago)
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
