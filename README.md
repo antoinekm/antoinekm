@@ -56,19 +56,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9]](https://github.com/unicum-gg/unicum.gg/pull/7) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [🔥 remove the &#39;no ads&#39; brand claim from home and coverage copy](https://github.com/unicum-gg/unicum.gg/pull/6) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [✨ add per-region tank pages with sitemaps and profile interlinking](https://github.com/unicum-gg/unicum.gg/pull/5) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [🗃️ add reproducible per-region schema baseline](https://github.com/unicum-gg/unicum.gg/pull/4) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [✨ add reach quick-wins: /top leaderboards, metric glossary, and cross-entity linking](https://github.com/unicum-gg/unicum.gg/pull/3) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [fix: ExtractRouteParams&lt;string&gt; rejecting array query values](https://github.com/alii/pathcat/pull/8) on [alii/pathcat](https://github.com/alii/pathcat) (2 months ago)
 - [feat(screenshot): add CLI options to cap screenshot size at the source](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/1823) on [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (2 months ago)
 - [✨ add docs](https://github.com/onRuntime/onruntime/pull/371) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
 - [♻️ move from tailwind v3 to v4](https://github.com/onRuntime/onruntime/pull/369) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
 - [🌐 add translations generation](https://github.com/onRuntime/onruntime/pull/368) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
-- [✨ add translations to web app](https://github.com/onRuntime/onruntime/pull/367) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
-- [✨ add i18n](https://github.com/onRuntime/onruntime/pull/365) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
-- [📝 add claude.md](https://github.com/onRuntime/onruntime/pull/364) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
-- [🚚 move from polyrepo to monorepo](https://github.com/onRuntime/onruntime/pull/363) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
-- [🚚 move from yarn to pnpm](https://github.com/onRuntime/onruntime/pull/362) on [onRuntime/onruntime](https://github.com/onRuntime/onruntime) (5 months ago)
 
 #### ⭐ Recent Stars
 
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (today)
 - [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (today)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (today)
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (4 days ago)
@@ -78,7 +79,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (3 weeks ago)
 - [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (1 month ago)
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (1 month ago)
-- [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
