@@ -38,9 +38,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (today)
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (4 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (1 day ago)
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (5 days ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (2 weeks ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (3 weeks ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (3 weeks ago)
@@ -50,35 +50,35 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.271](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.271), today) - @tonightpass sdk and tools.
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.3.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.3.0), 3 days ago) - Chrome DevTools for coding agents
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.271](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.271), 1 day ago) - @tonightpass sdk and tools.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.3.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.3.0), 4 days ago) - Chrome DevTools for coding agents
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 8 months ago) - The Discord Framework
 
 #### 🔨 My recent Pull Requests
 
-- [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9] (re-land of PR #7)](https://github.com/unicum-gg/unicum.gg/pull/13) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model](https://github.com/unicum-gg/unicum.gg/pull/12) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add discord /wot stats bot foundation &#43; wn8/wnx/30d/top-tank enrichment](https://github.com/unicum-gg/unicum.gg/pull/11) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/10) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add cls-safe consent-gated adunit primitive](https://github.com/unicum-gg/unicum.gg/pull/9) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add CLS-safe consent-gated AdSlot primitive (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/8) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9]](https://github.com/unicum-gg/unicum.gg/pull/7) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [🔥 remove the &#39;no ads&#39; brand claim from home and coverage copy](https://github.com/unicum-gg/unicum.gg/pull/6) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [✨ add per-region tank pages with sitemaps and profile interlinking](https://github.com/unicum-gg/unicum.gg/pull/5) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
-- [🗃️ add reproducible per-region schema baseline](https://github.com/unicum-gg/unicum.gg/pull/4) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9] (re-land of PR #7)](https://github.com/unicum-gg/unicum.gg/pull/13) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model](https://github.com/unicum-gg/unicum.gg/pull/12) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [✨ add discord /wot stats bot foundation &#43; wn8/wnx/30d/top-tank enrichment](https://github.com/unicum-gg/unicum.gg/pull/11) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/10) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [✨ add cls-safe consent-gated adunit primitive](https://github.com/unicum-gg/unicum.gg/pull/9) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [✨ add CLS-safe consent-gated AdSlot primitive (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/8) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9]](https://github.com/unicum-gg/unicum.gg/pull/7) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [🔥 remove the &#39;no ads&#39; brand claim from home and coverage copy](https://github.com/unicum-gg/unicum.gg/pull/6) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [✨ add per-region tank pages with sitemaps and profile interlinking](https://github.com/unicum-gg/unicum.gg/pull/5) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
+- [🗃️ add reproducible per-region schema baseline](https://github.com/unicum-gg/unicum.gg/pull/4) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (today)
-- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (today)
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (today)
-- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (4 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (today)
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (1 day ago)
+- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (1 day ago)
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (1 day ago)
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (5 days ago)
 - [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (1 week ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (3 weeks ago)
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (3 weeks ago)
-- [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (3 weeks ago)
+- [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (4 weeks ago)
 - [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (1 month ago)
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
