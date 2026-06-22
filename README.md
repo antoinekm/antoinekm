@@ -56,6 +56,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(memory): per-agent long-term memory foundation](https://github.com/antoinekm/atelier/pull/8) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9] (re-land of PR #7)](https://github.com/unicum-gg/unicum.gg/pull/13) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
 - [✨ add CLS-safe consent-gated AdSlot primitive and revenue model](https://github.com/unicum-gg/unicum.gg/pull/12) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
 - [✨ add discord /wot stats bot foundation &#43; wn8/wnx/30d/top-tank enrichment](https://github.com/unicum-gg/unicum.gg/pull/11) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
@@ -65,7 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9]](https://github.com/unicum-gg/unicum.gg/pull/7) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
 - [🔥 remove the &#39;no ads&#39; brand claim from home and coverage copy](https://github.com/unicum-gg/unicum.gg/pull/6) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
 - [✨ add per-region tank pages with sitemaps and profile interlinking](https://github.com/unicum-gg/unicum.gg/pull/5) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
-- [🗃️ add reproducible per-region schema baseline](https://github.com/unicum-gg/unicum.gg/pull/4) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 day ago)
 
 #### ⭐ Recent Stars
 
