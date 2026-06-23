@@ -56,6 +56,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(agents): capability auto-install for MCP servers, skills &amp; plugins (#2, #5)](https://github.com/antoinekm/atelier/pull/12) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(memory): teach agents how to write their long-term memory (#6)](https://github.com/antoinekm/atelier/pull/10) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(memory): inject consolidated agent memory into run context (#6)](https://github.com/antoinekm/atelier/pull/9) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(memory): per-agent long-term memory foundation](https://github.com/antoinekm/atelier/pull/8) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
@@ -65,7 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add CLS-safe consent-gated AdSlot primitive and revenue model (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/10) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
 - [✨ add cls-safe consent-gated adunit primitive](https://github.com/unicum-gg/unicum.gg/pull/9) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
 - [✨ add CLS-safe consent-gated AdSlot primitive (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/8) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
-- [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9]](https://github.com/unicum-gg/unicum.gg/pull/7) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
 
 #### ⭐ Recent Stars
 
