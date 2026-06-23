@@ -56,6 +56,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(agents): credential requests (#4)](https://github.com/antoinekm/atelier/pull/20) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(agents): bias agents toward autonomous DIY operation](https://github.com/antoinekm/atelier/pull/19) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(agents): inject a capability-request guide into agent runs (#2)](https://github.com/antoinekm/atelier/pull/18) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [fix(plugins): fail closed when bundled plugin discovery errors (#2)](https://github.com/antoinekm/atelier/pull/17) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [fix(plugins): install bundled first-party plugins via capability approval (#2)](https://github.com/antoinekm/atelier/pull/15) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
@@ -64,8 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(memory): inject consolidated agent memory into run context (#6)](https://github.com/antoinekm/atelier/pull/9) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(memory): per-agent long-term memory foundation](https://github.com/antoinekm/atelier/pull/8) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9] (re-land of PR #7)](https://github.com/unicum-gg/unicum.gg/pull/13) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
-- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model](https://github.com/unicum-gg/unicum.gg/pull/12) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
-- [✨ add discord /wot stats bot foundation &#43; wn8/wnx/30d/top-tank enrichment](https://github.com/unicum-gg/unicum.gg/pull/11) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
 
 #### ⭐ Recent Stars
 
