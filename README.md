@@ -56,6 +56,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(agents): inject a capability-request guide into agent runs (#2)](https://github.com/antoinekm/atelier/pull/18) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [fix(plugins): fail closed when bundled plugin discovery errors (#2)](https://github.com/antoinekm/atelier/pull/17) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [fix(plugins): install bundled first-party plugins via capability approval (#2)](https://github.com/antoinekm/atelier/pull/15) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(agents): capability auto-install for MCP servers, skills &amp; plugins (#2, #5)](https://github.com/antoinekm/atelier/pull/12) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(memory): teach agents how to write their long-term memory (#6)](https://github.com/antoinekm/atelier/pull/10) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(memory): inject consolidated agent memory into run context (#6)](https://github.com/antoinekm/atelier/pull/9) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
@@ -63,9 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [✨ add Discord stat-card bot foundation (/wot stats) [UNI-9] (re-land of PR #7)](https://github.com/unicum-gg/unicum.gg/pull/13) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
 - [✨ add CLS-safe consent-gated AdSlot primitive and revenue model](https://github.com/unicum-gg/unicum.gg/pull/12) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
 - [✨ add discord /wot stats bot foundation &#43; wn8/wnx/30d/top-tank enrichment](https://github.com/unicum-gg/unicum.gg/pull/11) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
-- [✨ add CLS-safe consent-gated AdSlot primitive and revenue model (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/10) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
-- [✨ add cls-safe consent-gated adunit primitive](https://github.com/unicum-gg/unicum.gg/pull/9) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
-- [✨ add CLS-safe consent-gated AdSlot primitive (UNI-39)](https://github.com/unicum-gg/unicum.gg/pull/8) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 days ago)
 
 #### ⭐ Recent Stars
 
