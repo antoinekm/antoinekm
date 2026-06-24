@@ -56,16 +56,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mail): in-process SMTP listener &#43; inbox in agent run context](https://github.com/antoinekm/atelier/pull/31) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): phase 1 reception foundation (addresses &#43; inbox)](https://github.com/antoinekm/atelier/pull/30) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [fix(mail): AlertDialog for the detach confirmation](https://github.com/antoinekm/atelier/pull/29) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): single domains table (checkbox = attached state)](https://github.com/antoinekm/atelier/pull/28) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): multi-select table to attach Cloudflare domains in bulk](https://github.com/antoinekm/atelier/pull/27) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): detaching a domain cleans up its Cloudflare DNS records](https://github.com/antoinekm/atelier/pull/26) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): dedicated Cloudflare settings page](https://github.com/antoinekm/atelier/pull/25) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): one-click Connect with Cloudflare via OAuth](https://github.com/antoinekm/atelier/pull/24) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): embedded mail phase 0 (Cloudflare connect &#43; attach domains)](https://github.com/antoinekm/atelier/pull/23) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(approvals): credential how-to-obtain &#43; browser-agent prompt (#4)](https://github.com/antoinekm/atelier/pull/22) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [fix(approvals): provide credential value on the detail page, block plain-approve (#4)](https://github.com/antoinekm/atelier/pull/21) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [feat(agents): credential requests (#4)](https://github.com/antoinekm/atelier/pull/20) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [feat(agents): bias agents toward autonomous DIY operation](https://github.com/antoinekm/atelier/pull/19) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [feat(agents): inject a capability-request guide into agent runs (#2)](https://github.com/antoinekm/atelier/pull/18) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 
 #### ⭐ Recent Stars
 
