@@ -56,6 +56,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/antoinekm/atelier/pull/37) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (today)
 - [feat(mail): phase 2 sending - agents can reply (DKIM, direct-to-MX)](https://github.com/antoinekm/atelier/pull/36) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): provision agent mailboxes on domain verify too](https://github.com/antoinekm/atelier/pull/35) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): auto-provision an agent mailbox per attached domain](https://github.com/antoinekm/atelier/pull/34) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
@@ -64,8 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(mail): in-process SMTP listener &#43; inbox in agent run context](https://github.com/antoinekm/atelier/pull/31) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): phase 1 reception foundation (addresses &#43; inbox)](https://github.com/antoinekm/atelier/pull/30) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [fix(mail): AlertDialog for the detach confirmation](https://github.com/antoinekm/atelier/pull/29) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): single domains table (checkbox = attached state)](https://github.com/antoinekm/atelier/pull/28) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): multi-select table to attach Cloudflare domains in bulk](https://github.com/antoinekm/atelier/pull/27) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 
 #### ⭐ Recent Stars
 
