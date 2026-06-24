@@ -56,6 +56,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mail): per-agent mail client (mini Gmail) on the agent page](https://github.com/antoinekm/atelier/pull/39) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [fix(mail): resolve reverse DNS via public resolvers, not the local cache](https://github.com/antoinekm/atelier/pull/38) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/antoinekm/atelier/pull/37) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [Closed: opened against the wrong repository by mistake](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (today)
@@ -65,7 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(mail): Create-token deep-link on the Domain page](https://github.com/antoinekm/atelier/pull/33) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): split settings into Domain &#43; Mail pages](https://github.com/antoinekm/atelier/pull/32) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): in-process SMTP listener &#43; inbox in agent run context](https://github.com/antoinekm/atelier/pull/31) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): phase 1 reception foundation (addresses &#43; inbox)](https://github.com/antoinekm/atelier/pull/30) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 
 #### ⭐ Recent Stars
 
