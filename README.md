@@ -56,6 +56,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mail): provision agent mailboxes on domain verify too](https://github.com/antoinekm/atelier/pull/35) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): auto-provision an agent mailbox per attached domain](https://github.com/antoinekm/atelier/pull/34) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): Create-token deep-link on the Domain page](https://github.com/antoinekm/atelier/pull/33) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): split settings into Domain &#43; Mail pages](https://github.com/antoinekm/atelier/pull/32) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): in-process SMTP listener &#43; inbox in agent run context](https://github.com/antoinekm/atelier/pull/31) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
@@ -64,8 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(mail): single domains table (checkbox = attached state)](https://github.com/antoinekm/atelier/pull/28) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): multi-select table to attach Cloudflare domains in bulk](https://github.com/antoinekm/atelier/pull/27) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): detaching a domain cleans up its Cloudflare DNS records](https://github.com/antoinekm/atelier/pull/26) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): dedicated Cloudflare settings page](https://github.com/antoinekm/atelier/pull/25) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): one-click Connect with Cloudflare via OAuth](https://github.com/antoinekm/atelier/pull/24) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 
 #### ⭐ Recent Stars
 
