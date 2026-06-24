@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 days ago)
-- [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (2 days ago)
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (6 days ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (2 days ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
+- [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (3 days ago)
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 week ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (3 weeks ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (3 weeks ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (4 weeks ago)
@@ -50,34 +50,34 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.4.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.4.0), today) - Chrome DevTools for coding agents
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.271](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.271), 2 days ago) - @tonightpass sdk and tools.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.4.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.4.0), 1 day ago) - Chrome DevTools for coding agents
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.271](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.271), 3 days ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 8 months ago) - The Discord Framework
 
 #### 🔨 My recent Pull Requests
 
-- [feat(approvals): credential how-to-obtain &#43; browser-agent prompt (#4)](https://github.com/antoinekm/atelier/pull/22) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [fix(approvals): provide credential value on the detail page, block plain-approve (#4)](https://github.com/antoinekm/atelier/pull/21) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(agents): credential requests (#4)](https://github.com/antoinekm/atelier/pull/20) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(agents): bias agents toward autonomous DIY operation](https://github.com/antoinekm/atelier/pull/19) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(agents): inject a capability-request guide into agent runs (#2)](https://github.com/antoinekm/atelier/pull/18) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [fix(plugins): fail closed when bundled plugin discovery errors (#2)](https://github.com/antoinekm/atelier/pull/17) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [fix(plugins): install bundled first-party plugins via capability approval (#2)](https://github.com/antoinekm/atelier/pull/15) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(agents): capability auto-install for MCP servers, skills &amp; plugins (#2, #5)](https://github.com/antoinekm/atelier/pull/12) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(memory): teach agents how to write their long-term memory (#6)](https://github.com/antoinekm/atelier/pull/10) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(memory): inject consolidated agent memory into run context (#6)](https://github.com/antoinekm/atelier/pull/9) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(approvals): credential how-to-obtain &#43; browser-agent prompt (#4)](https://github.com/antoinekm/atelier/pull/22) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [fix(approvals): provide credential value on the detail page, block plain-approve (#4)](https://github.com/antoinekm/atelier/pull/21) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(agents): credential requests (#4)](https://github.com/antoinekm/atelier/pull/20) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(agents): bias agents toward autonomous DIY operation](https://github.com/antoinekm/atelier/pull/19) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(agents): inject a capability-request guide into agent runs (#2)](https://github.com/antoinekm/atelier/pull/18) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [fix(plugins): fail closed when bundled plugin discovery errors (#2)](https://github.com/antoinekm/atelier/pull/17) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [fix(plugins): install bundled first-party plugins via capability approval (#2)](https://github.com/antoinekm/atelier/pull/15) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(agents): capability auto-install for MCP servers, skills &amp; plugins (#2, #5)](https://github.com/antoinekm/atelier/pull/12) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(memory): teach agents how to write their long-term memory (#6)](https://github.com/antoinekm/atelier/pull/10) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(memory): inject consolidated agent memory into run context (#6)](https://github.com/antoinekm/atelier/pull/9) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 day ago)
-- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (2 days ago)
-- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (2 days ago)
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (2 days ago)
-- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (6 days ago)
-- [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (1 week ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (3 days ago)
+- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (3 days ago)
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (3 days ago)
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (1 week ago)
+- [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (2 weeks ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (3 weeks ago)
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (3 weeks ago)
-- [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (4 weeks ago)
+- [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (1 month ago)
 - [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (1 month ago)
 
 #### 👯 Check out some of my recent followers
