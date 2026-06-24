@@ -57,7 +57,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 🔨 My recent Pull Requests
 
 - [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/antoinekm/atelier/pull/37) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (today)
+- [Closed: opened against the wrong repository by mistake](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (today)
 - [feat(mail): phase 2 sending - agents can reply (DKIM, direct-to-MX)](https://github.com/antoinekm/atelier/pull/36) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): provision agent mailboxes on domain verify too](https://github.com/antoinekm/atelier/pull/35) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): auto-provision an agent mailbox per attached domain](https://github.com/antoinekm/atelier/pull/34) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
