@@ -56,19 +56,20 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mail): multi-select table to attach Cloudflare domains in bulk](https://github.com/antoinekm/atelier/pull/27) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): detaching a domain cleans up its Cloudflare DNS records](https://github.com/antoinekm/atelier/pull/26) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): dedicated Cloudflare settings page](https://github.com/antoinekm/atelier/pull/25) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): one-click Connect with Cloudflare via OAuth](https://github.com/antoinekm/atelier/pull/24) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): embedded mail phase 0 (Cloudflare connect &#43; attach domains)](https://github.com/antoinekm/atelier/pull/23) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(approvals): credential how-to-obtain &#43; browser-agent prompt (#4)](https://github.com/antoinekm/atelier/pull/22) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [fix(approvals): provide credential value on the detail page, block plain-approve (#4)](https://github.com/antoinekm/atelier/pull/21) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [feat(agents): credential requests (#4)](https://github.com/antoinekm/atelier/pull/20) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [feat(agents): bias agents toward autonomous DIY operation](https://github.com/antoinekm/atelier/pull/19) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [feat(agents): inject a capability-request guide into agent runs (#2)](https://github.com/antoinekm/atelier/pull/18) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [fix(plugins): fail closed when bundled plugin discovery errors (#2)](https://github.com/antoinekm/atelier/pull/17) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [fix(plugins): install bundled first-party plugins via capability approval (#2)](https://github.com/antoinekm/atelier/pull/15) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [feat(agents): capability auto-install for MCP servers, skills &amp; plugins (#2, #5)](https://github.com/antoinekm/atelier/pull/12) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [feat(memory): teach agents how to write their long-term memory (#6)](https://github.com/antoinekm/atelier/pull/10) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [antoinekm/atelier](https://github.com/antoinekm/atelier) - The open-source app everyone uses to manage agents at work (today)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (3 days ago)
 - [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (3 days ago)
@@ -78,7 +79,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (3 weeks ago)
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (3 weeks ago)
 - [v2v3v4/BigWorld-Engine-14.4.1](https://github.com/v2v3v4/BigWorld-Engine-14.4.1) - BigWorld OSE 2014 (1 month ago)
-- [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
