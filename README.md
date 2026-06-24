@@ -56,6 +56,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mail): Create-token deep-link on the Domain page](https://github.com/antoinekm/atelier/pull/33) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): split settings into Domain &#43; Mail pages](https://github.com/antoinekm/atelier/pull/32) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): in-process SMTP listener &#43; inbox in agent run context](https://github.com/antoinekm/atelier/pull/31) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): phase 1 reception foundation (addresses &#43; inbox)](https://github.com/antoinekm/atelier/pull/30) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [fix(mail): AlertDialog for the detach confirmation](https://github.com/antoinekm/atelier/pull/29) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
@@ -64,8 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(mail): detaching a domain cleans up its Cloudflare DNS records](https://github.com/antoinekm/atelier/pull/26) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): dedicated Cloudflare settings page](https://github.com/antoinekm/atelier/pull/25) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): one-click Connect with Cloudflare via OAuth](https://github.com/antoinekm/atelier/pull/24) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): embedded mail phase 0 (Cloudflare connect &#43; attach domains)](https://github.com/antoinekm/atelier/pull/23) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(approvals): credential how-to-obtain &#43; browser-agent prompt (#4)](https://github.com/antoinekm/atelier/pull/22) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 
 #### ⭐ Recent Stars
 
