@@ -56,6 +56,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): security hardening for the embedded mailbox](https://github.com/antoinekm/atelier/pull/40) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(mail): per-agent mail client (mini Gmail) on the agent page](https://github.com/antoinekm/atelier/pull/39) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [fix(mail): resolve reverse DNS via public resolvers, not the local cache](https://github.com/antoinekm/atelier/pull/38) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
@@ -64,8 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(mail): phase 2 sending - agents can reply (DKIM, direct-to-MX)](https://github.com/antoinekm/atelier/pull/36) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [feat(mail): provision agent mailboxes on domain verify too](https://github.com/antoinekm/atelier/pull/35) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 - [feat(mail): auto-provision an agent mailbox per attached domain](https://github.com/antoinekm/atelier/pull/34) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [feat(mail): Create-token deep-link on the Domain page](https://github.com/antoinekm/atelier/pull/33) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
-- [feat(mail): split settings into Domain &#43; Mail pages](https://github.com/antoinekm/atelier/pull/32) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 
 #### ⭐ Recent Stars
 
