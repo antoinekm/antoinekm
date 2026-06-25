@@ -37,43 +37,43 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 days ago)
-- [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (3 days ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 days ago)
+- [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (4 days ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 week ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (3 weeks ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (3 weeks ago)
-- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (4 weeks ago)
+- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 month ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 months ago)
 - [republique-vote/.github](https://github.com/republique-vote/.github) - 📋 Profil de l&#39;organisation @republique-vote (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.4.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.4.0), 1 day ago) - Chrome DevTools for coding agents
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.271](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.271), 3 days ago) - @tonightpass sdk and tools.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.4.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.4.0), 2 days ago) - Chrome DevTools for coding agents
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.271](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.271), 4 days ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 8 months ago) - The Discord Framework
 
 #### 🔨 My recent Pull Requests
 
-- [feat(mail): per-agent mail client (mini Gmail) on the agent page](https://github.com/antoinekm/atelier/pull/39) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [fix(mail): resolve reverse DNS via public resolvers, not the local cache](https://github.com/antoinekm/atelier/pull/38) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/antoinekm/atelier/pull/37) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [Closed: opened against the wrong repository by mistake](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (today)
-- [feat(mail): phase 2 sending - agents can reply (DKIM, direct-to-MX)](https://github.com/antoinekm/atelier/pull/36) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): provision agent mailboxes on domain verify too](https://github.com/antoinekm/atelier/pull/35) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): auto-provision an agent mailbox per attached domain](https://github.com/antoinekm/atelier/pull/34) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): Create-token deep-link on the Domain page](https://github.com/antoinekm/atelier/pull/33) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): split settings into Domain &#43; Mail pages](https://github.com/antoinekm/atelier/pull/32) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
-- [feat(mail): in-process SMTP listener &#43; inbox in agent run context](https://github.com/antoinekm/atelier/pull/31) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): security hardening for the embedded mailbox](https://github.com/antoinekm/atelier/pull/40) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(mail): per-agent mail client (mini Gmail) on the agent page](https://github.com/antoinekm/atelier/pull/39) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [fix(mail): resolve reverse DNS via public resolvers, not the local cache](https://github.com/antoinekm/atelier/pull/38) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/antoinekm/atelier/pull/37) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [Closed: opened against the wrong repository by mistake](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (1 day ago)
+- [feat(mail): phase 2 sending - agents can reply (DKIM, direct-to-MX)](https://github.com/antoinekm/atelier/pull/36) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(mail): provision agent mailboxes on domain verify too](https://github.com/antoinekm/atelier/pull/35) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(mail): auto-provision an agent mailbox per attached domain](https://github.com/antoinekm/atelier/pull/34) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(mail): Create-token deep-link on the Domain page](https://github.com/antoinekm/atelier/pull/33) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
+- [feat(mail): split settings into Domain &#43; Mail pages](https://github.com/antoinekm/atelier/pull/32) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [antoinekm/atelier](https://github.com/antoinekm/atelier) - The open-source app everyone uses to manage agents at work (today)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 days ago)
-- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (3 days ago)
-- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (3 days ago)
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (3 days ago)
+- [antoinekm/atelier](https://github.com/antoinekm/atelier) - The open-source app everyone uses to manage agents at work (1 day ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 days ago)
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (4 days ago)
+- [ben-vargas/ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) - Vercel AI SDK community provider for Claude Agent SDK (4 days ago)
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (4 days ago)
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (1 week ago)
 - [Kurzdor/wot.assets](https://github.com/Kurzdor/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (2 weeks ago)
 - [unicum-gg/wg-asia-proxy.unicum.gg](https://github.com/unicum-gg/wg-asia-proxy.unicum.gg) - Tiny HTTP proxy for Wargaming&#39;s Asia endpoints. Deploy on a host with an APAC source IP (Singapore ideal) to work around the silent TCP drop on api.worldoftanks.asia and asia.wargaming.net from non-APAC IPs. (3 weeks ago)
