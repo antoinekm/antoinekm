@@ -56,6 +56,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [📝 add contributing guide](https://github.com/unicum-gg/unicum.gg/pull/14) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
 - [feat(approvals): lead shares a company secret with a sub-agent (human-approved) &#43; revoke](https://github.com/antoinekm/atelier/pull/46) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
@@ -65,7 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): security hardening for the embedded mailbox](https://github.com/antoinekm/atelier/pull/40) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
-- [feat(mail): per-agent mail client (mini Gmail) on the agent page](https://github.com/antoinekm/atelier/pull/39) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
 
 #### ⭐ Recent Stars
 
