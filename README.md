@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 day ago)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (4 days ago)
 - [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
@@ -56,16 +56,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [📝 add contributing guide](https://github.com/unicum-gg/unicum.gg/pull/14) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (today)
+- [feat(approvals): lead shares a company secret with a sub-agent (human-approved) &#43; revoke](https://github.com/antoinekm/atelier/pull/46) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
+- [feat(approvals): credentials are the company lead&#39;s job and deduped](https://github.com/antoinekm/atelier/pull/45) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [fix(approvals): validate request_credential payload at creation](https://github.com/antoinekm/atelier/pull/44) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(agents): agents fully own their domains, stop escalating domain/business decisions](https://github.com/antoinekm/atelier/pull/43) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): security hardening for the embedded mailbox](https://github.com/antoinekm/atelier/pull/40) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): per-agent mail client (mini Gmail) on the agent page](https://github.com/antoinekm/atelier/pull/39) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
-- [fix(mail): resolve reverse DNS via public resolvers, not the local cache](https://github.com/antoinekm/atelier/pull/38) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
-- [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/antoinekm/atelier/pull/37) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
-- [Closed: opened against the wrong repository by mistake](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (6 days ago)
-- [feat(mail): phase 2 sending - agents can reply (DKIM, direct-to-MX)](https://github.com/antoinekm/atelier/pull/36) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
 
 #### ⭐ Recent Stars
 
