@@ -56,6 +56,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(approvals): validate request_credential payload at creation](https://github.com/antoinekm/atelier/pull/44) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (today)
 - [feat(agents): agents fully own their domains, stop escalating domain/business decisions](https://github.com/antoinekm/atelier/pull/43) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
 - [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (5 days ago)
@@ -65,7 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(mail): surface reverse DNS (PTR) health in the dashboard](https://github.com/antoinekm/atelier/pull/37) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
 - [Closed: opened against the wrong repository by mistake](https://github.com/paperclipai/paperclip/pull/8602) on [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (6 days ago)
 - [feat(mail): phase 2 sending - agents can reply (DKIM, direct-to-MX)](https://github.com/antoinekm/atelier/pull/36) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
-- [feat(mail): provision agent mailboxes on domain verify too](https://github.com/antoinekm/atelier/pull/35) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (6 days ago)
 
 #### ⭐ Recent Stars
 
