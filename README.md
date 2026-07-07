@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (2 days ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 week ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 week ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
 - [antoinekm/paperclip-with-browser](https://github.com/antoinekm/paperclip-with-browser) - Paperclip server image with headless Chromium pre-installed, so agents can use real-browser MCP servers (chrome-devtools-mcp, playwright-mcp). (2 weeks ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (2 weeks ago)
 - [republique-vote/republique.vote](https://github.com/republique-vote/republique.vote) - 🗳️ Plateforme de vote en ligne transparente pour les citoyens français. Chaque vote est anonyme, publié publiquement et vérifiable par tous. (1 month ago)
@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/nest@0.0.253](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/nest%400.0.253), today) - @tonightpass sdk and tools.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.5.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.5.0), 4 days ago) - Chrome DevTools for coding agents
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.0.271](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.0.271), 2 weeks ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 9 months ago) - The Discord Framework
 
 #### 🔨 My recent Pull Requests
