@@ -82,8 +82,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [webbrain-one](https://github.com/webbrain-one)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [IDouble](https://github.com/IDouble)
 - [AbdulBasit2733](https://github.com/AbdulBasit2733)
 - [sidkey](https://github.com/sidkey)
-- [Divyanshu1306](https://github.com/Divyanshu1306)
