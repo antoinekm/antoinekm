@@ -50,8 +50,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.6.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.6.0), today) - Chrome DevTools for coding agents
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.0), 6 days ago) - @tonightpass sdk and tools.
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.5.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.5.0), 1 week ago) - Chrome DevTools for coding agents
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 9 months ago) - The Discord Framework
 
 #### 🔨 My recent Pull Requests
