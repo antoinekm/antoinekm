@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.6.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.6.0), 1 day ago) - Chrome DevTools for coding agents
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.6.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.6.0), 2 days ago) - Chrome DevTools for coding agents
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.0), 1 week ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 9 months ago) - The Discord Framework
 
@@ -62,10 +62,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(approvals): lead shares a company secret with a sub-agent (human-approved) &#43; revoke](https://github.com/antoinekm/atelier/pull/46) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (2 weeks ago)
 - [feat(approvals): credentials are the company lead&#39;s job and deduped](https://github.com/antoinekm/atelier/pull/45) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (2 weeks ago)
 - [fix(approvals): validate request_credential payload at creation](https://github.com/antoinekm/atelier/pull/44) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (2 weeks ago)
-- [feat(agents): agents fully own their domains, stop escalating domain/business decisions](https://github.com/antoinekm/atelier/pull/43) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (2 weeks ago)
-- [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (2 weeks ago)
-- [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (2 weeks ago)
-- [feat(mail): security hardening for the embedded mailbox](https://github.com/antoinekm/atelier/pull/40) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (2 weeks ago)
+- [feat(agents): agents fully own their domains, stop escalating domain/business decisions](https://github.com/antoinekm/atelier/pull/43) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 weeks ago)
+- [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 weeks ago)
+- [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 weeks ago)
+- [feat(mail): security hardening for the embedded mailbox](https://github.com/antoinekm/atelier/pull/40) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
