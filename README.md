@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (today)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
+- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (1 day ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 weeks ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
@@ -56,12 +56,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 weeks ago)
-- [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 weeks ago)
-- [📝 add contributing guide](https://github.com/unicum-gg/unicum.gg/pull/14) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (4 weeks ago)
-- [feat(approvals): lead shares a company secret with a sub-agent (human-approved) &#43; revoke](https://github.com/antoinekm/atelier/pull/46) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 weeks ago)
-- [feat(approvals): credentials are the company lead&#39;s job and deduped](https://github.com/antoinekm/atelier/pull/45) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 weeks ago)
-- [fix(approvals): validate request_credential payload at creation](https://github.com/antoinekm/atelier/pull/44) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 weeks ago)
+- [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
+- [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
+- [📝 add contributing guide](https://github.com/unicum-gg/unicum.gg/pull/14) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 month ago)
+- [feat(approvals): lead shares a company secret with a sub-agent (human-approved) &#43; revoke](https://github.com/antoinekm/atelier/pull/46) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
+- [feat(approvals): credentials are the company lead&#39;s job and deduped](https://github.com/antoinekm/atelier/pull/45) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
+- [fix(approvals): validate request_credential payload at creation](https://github.com/antoinekm/atelier/pull/44) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [feat(agents): agents fully own their domains, stop escalating domain/business decisions](https://github.com/antoinekm/atelier/pull/43) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
@@ -69,10 +69,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [Mixaill/galaxy-integration-wargaming](https://github.com/Mixaill/galaxy-integration-wargaming) - GOG Galaxy 2.0 WGC integration (today)
-- [synopss/replay-reader](https://github.com/synopss/replay-reader) - World of Tanks replay analysis tool focusing on important statics (today)
-- [synopss/wot-clan-rivals-check](https://github.com/synopss/wot-clan-rivals-check) - This script is able to check every single confirmed teams registered to play a World of Tanks tournament (today)
-- [synopss/wot-map-extractor](https://github.com/synopss/wot-map-extractor) - Tool used to extract minimaps images from World of Tanks files (today)
+- [Mixaill/galaxy-integration-wargaming](https://github.com/Mixaill/galaxy-integration-wargaming) - GOG Galaxy 2.0 WGC integration (1 day ago)
+- [synopss/replay-reader](https://github.com/synopss/replay-reader) - World of Tanks replay analysis tool focusing on important statics (1 day ago)
+- [synopss/wot-clan-rivals-check](https://github.com/synopss/wot-clan-rivals-check) - This script is able to check every single confirmed teams registered to play a World of Tanks tournament (1 day ago)
+- [synopss/wot-map-extractor](https://github.com/synopss/wot-map-extractor) - Tool used to extract minimaps images from World of Tanks files (1 day ago)
 - [ImJustLucas/beach-os-portfolio](https://github.com/ImJustLucas/beach-os-portfolio) -  (3 weeks ago)
 - [shivamhwp/ccc](https://github.com/shivamhwp/ccc) -  (3 weeks ago)
 - [tazo90/next-openapi-gen](https://github.com/tazo90/next-openapi-gen) - Automatically generate OpenAPI 3.0, 3.1, and 3.2 documentation from Next.js projects, with support for Zod schemas, TypeScript types, and reusable OpenAPI fragments. (1 month ago)
