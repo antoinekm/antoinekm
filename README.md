@@ -38,7 +38,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (6 days ago)
+- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 weeks ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
@@ -73,7 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [synopss/replay-reader](https://github.com/synopss/replay-reader) - World of Tanks replay analysis tool focusing on important statics (1 week ago)
 - [synopss/wot-clan-rivals-check](https://github.com/synopss/wot-clan-rivals-check) - This script is able to check every single confirmed teams registered to play a World of Tanks tournament (1 week ago)
 - [synopss/wot-map-extractor](https://github.com/synopss/wot-map-extractor) - Tool used to extract minimaps images from World of Tanks files (1 week ago)
-- [ImJustLucas/beach-os-portfolio](https://github.com/ImJustLucas/beach-os-portfolio) -  (4 weeks ago)
+- [ImJustLucas/beach-os-portfolio](https://github.com/ImJustLucas/beach-os-portfolio) -  (1 month ago)
 - [shivamhwp/ccc](https://github.com/shivamhwp/ccc) -  (1 month ago)
 - [tazo90/next-openapi-gen](https://github.com/tazo90/next-openapi-gen) - Automatically generate OpenAPI 3.0, 3.1, and 3.2 documentation from Next.js projects, with support for Zod schemas, TypeScript types, and reusable OpenAPI fragments. (1 month ago)
 - [mixmark-io/turndown-plugin-gfm](https://github.com/mixmark-io/turndown-plugin-gfm) - :octocat: Turndown plugin to add GitHub Flavored Markdown extensions (1 month ago)
