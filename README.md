@@ -56,6 +56,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [follow the WGUS redirect in get_patches_chains](https://github.com/izeberg/wgus/pull/2) on [izeberg/wgus](https://github.com/izeberg/wgus) (today)
 - [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [📝 add contributing guide](https://github.com/unicum-gg/unicum.gg/pull/14) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 month ago)
@@ -65,7 +66,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [feat(agents): agents fully own their domains, stop escalating domain/business decisions](https://github.com/antoinekm/atelier/pull/43) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [feat(mail): generic DNS record management for the agent](https://github.com/antoinekm/atelier/pull/42) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [feat(mail): agent mail empowerment (awareness, domain mgmt, sender blocklist)](https://github.com/antoinekm/atelier/pull/41) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
-- [feat(mail): security hardening for the embedded mailbox](https://github.com/antoinekm/atelier/pull/40) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 
 #### ⭐ Recent Stars
 
