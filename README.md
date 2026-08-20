@@ -69,6 +69,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (today)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (1 week ago)
 - [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (2 weeks ago)
 - [Mixaill/galaxy-integration-wargaming](https://github.com/Mixaill/galaxy-integration-wargaming) - GOG Galaxy 2.0 WGC integration (3 weeks ago)
@@ -78,7 +79,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [ImJustLucas/beach-os-portfolio](https://github.com/ImJustLucas/beach-os-portfolio) -  (1 month ago)
 - [shivamhwp/ccc](https://github.com/shivamhwp/ccc) -  (1 month ago)
 - [tazo90/next-openapi-gen](https://github.com/tazo90/next-openapi-gen) - Automatically generate OpenAPI 3.0, 3.1, and 3.2 documentation from Next.js projects, with support for Zod schemas, TypeScript types, and reusable OpenAPI fragments. (1 month ago)
-- [mixmark-io/turndown-plugin-gfm](https://github.com/mixmark-io/turndown-plugin-gfm) - :octocat: Turndown plugin to add GitHub Flavored Markdown extensions (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
