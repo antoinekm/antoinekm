@@ -38,8 +38,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### 👷 Check out what I'm currently working on
 
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (today)
-- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (1 day ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
+- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (2 days ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 week ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
@@ -56,7 +56,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
-- [follow the WGUS redirect in get_patches_chains](https://github.com/izeberg/wgus/pull/2) on [izeberg/wgus](https://github.com/izeberg/wgus) (1 day ago)
+- [follow the WGUS redirect in get_patches_chains](https://github.com/izeberg/wgus/pull/2) on [izeberg/wgus](https://github.com/izeberg/wgus) (2 days ago)
 - [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (1 month ago)
 - [📝 add contributing guide](https://github.com/unicum-gg/unicum.gg/pull/14) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 month ago)
@@ -69,7 +69,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (1 day ago)
+- [unicum-gg/wot-src](https://github.com/unicum-gg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (today)
+- [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (today)
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (2 days ago)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (1 week ago)
 - [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (2 weeks ago)
 - [Mixaill/galaxy-integration-wargaming](https://github.com/Mixaill/galaxy-integration-wargaming) - GOG Galaxy 2.0 WGC integration (3 weeks ago)
@@ -77,8 +79,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [synopss/wot-clan-rivals-check](https://github.com/synopss/wot-clan-rivals-check) - This script is able to check every single confirmed teams registered to play a World of Tanks tournament (3 weeks ago)
 - [synopss/wot-map-extractor](https://github.com/synopss/wot-map-extractor) - Tool used to extract minimaps images from World of Tanks files (3 weeks ago)
 - [ImJustLucas/beach-os-portfolio](https://github.com/ImJustLucas/beach-os-portfolio) -  (1 month ago)
-- [shivamhwp/ccc](https://github.com/shivamhwp/ccc) -  (1 month ago)
-- [tazo90/next-openapi-gen](https://github.com/tazo90/next-openapi-gen) - Automatically generate OpenAPI 3.0, 3.1, and 3.2 documentation from Next.js projects, with support for Zod schemas, TypeScript types, and reusable OpenAPI fragments. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
