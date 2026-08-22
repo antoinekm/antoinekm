@@ -39,7 +39,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 day ago)
-- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (2 days ago)
+- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks battle minimaps, one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 days ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 week ago)
 - [antoinekm/antoinek.fr](https://github.com/antoinekm/antoinek.fr) - 👨‍💻 Next.js app for my personal website (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
@@ -69,12 +69,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, assets, minimaps) straight from the update CDN, with no game client installed. (today)
-- [unicum-gg/wot-src](https://github.com/unicum-gg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (today)
-- [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (today)
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (today)
+- [unicum-gg/wot-src](https://github.com/unicum-gg/wot-src) - Decompiled World of Tanks client sources, one branch per client build (EU, NA, ASIA, CT, RU, PT_RU, CN). Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (today)
+- [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - World of Tanks client GUI assets (icons, atlases, flash, videos), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (today)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (2 days ago)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (1 week ago)
-- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks / Мир танков battle minimaps, extracted from the game update CDN via WGUS. (2 weeks ago)
+- [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks battle minimaps, one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 weeks ago)
 - [Mixaill/galaxy-integration-wargaming](https://github.com/Mixaill/galaxy-integration-wargaming) - GOG Galaxy 2.0 WGC integration (3 weeks ago)
 - [synopss/replay-reader](https://github.com/synopss/replay-reader) - World of Tanks replay analysis tool focusing on important statics (3 weeks ago)
 - [synopss/wot-clan-rivals-check](https://github.com/synopss/wot-clan-rivals-check) - This script is able to check every single confirmed teams registered to play a World of Tanks tournament (3 weeks ago)
