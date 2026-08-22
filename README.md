@@ -69,6 +69,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, assets, minimaps) straight from the update CDN, with no game client installed. (today)
 - [unicum-gg/wot-src](https://github.com/unicum-gg/wot-src) - Decompiled World of Tanks client updated by the bot as-soon-as-possible (today)
 - [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - This repository is used to track WoT/MT assets changes for modders and users. (today)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (2 days ago)
@@ -78,7 +79,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [synopss/replay-reader](https://github.com/synopss/replay-reader) - World of Tanks replay analysis tool focusing on important statics (3 weeks ago)
 - [synopss/wot-clan-rivals-check](https://github.com/synopss/wot-clan-rivals-check) - This script is able to check every single confirmed teams registered to play a World of Tanks tournament (3 weeks ago)
 - [synopss/wot-map-extractor](https://github.com/synopss/wot-map-extractor) - Tool used to extract minimaps images from World of Tanks files (3 weeks ago)
-- [ImJustLucas/beach-os-portfolio](https://github.com/ImJustLucas/beach-os-portfolio) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
