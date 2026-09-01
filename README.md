@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (today)
-- [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (today)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (1 day ago)
+- [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 day ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks battle minimaps, one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 week ago)
 - [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (2 weeks ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.8.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.8.0), 6 days ago) - Chrome DevTools for coding agents
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.8.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.8.0), 1 week ago) - Chrome DevTools for coding agents
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.0](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.0), 1 month ago) - @tonightpass sdk and tools.
 - [antoinekm/dixt](https://github.com/antoinekm/dixt) ([dixt-plugin-react@5.0.7](https://github.com/antoinekm/dixt/releases/tag/dixt-plugin-react%405.0.7), 11 months ago) - The Discord Framework
 
@@ -69,7 +69,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (today)
+- [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 day ago)
 - [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (1 week ago)
 - [unicum-gg/wot.src](https://github.com/unicum-gg/wot.src) - Decompiled World of Tanks client sources, one branch per client build (EU, NA, ASIA, CT, RU, PT_RU, CN). Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 week ago)
 - [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - World of Tanks client GUI assets (icons, atlases, flash, videos), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 week ago)
