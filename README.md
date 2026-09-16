@@ -37,10 +37,10 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (today)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (today)
-- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (3 days ago)
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (1 day ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 day ago)
+- [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (4 days ago)
 - [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 weeks ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (3 weeks ago)
 - [unicum-gg/wot.maps](https://github.com/unicum-gg/wot.maps) - HD World of Tanks battle minimaps, one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (3 weeks ago)
@@ -69,9 +69,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (today)
-- [unicum-gg/unicum.gg-husk](https://github.com/unicum-gg/unicum.gg-husk) -  (2 days ago)
-- [brunojppb/turbo-cache-server](https://github.com/brunojppb/turbo-cache-server) - Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS (3 days ago)
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 day ago)
+- [unicum-gg/unicum.gg-husk](https://github.com/unicum-gg/unicum.gg-husk) -  (3 days ago)
+- [brunojppb/turbo-cache-server](https://github.com/brunojppb/turbo-cache-server) - Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS (4 days ago)
 - [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 weeks ago)
 - [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (3 weeks ago)
 - [unicum-gg/wot.src](https://github.com/unicum-gg/wot.src) - Decompiled World of Tanks client sources, one branch per client build (EU, NA, ASIA, CT, RU, PT_RU, CN). Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (3 weeks ago)
