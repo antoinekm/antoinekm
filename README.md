@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (5 days ago)
-- [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) - Community MCP server definitions for McpMux (5 days ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (6 days ago)
+- [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) - Community MCP server definitions for McpMux (6 days ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 weeks ago)
 - [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (2 weeks ago)
@@ -50,13 +50,13 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.11.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.11.0), 5 days ago) - Chrome DevTools for coding agents
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.6.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.6.0), 5 days ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.11.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.11.0), 6 days ago) - Chrome DevTools for coding agents
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.6.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.6.0), 6 days ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 1 week ago) - @tonightpass sdk and tools.
 
 #### 🔨 My recent Pull Requests
 
-- [Add gg.unicum-wot-stats-http](https://github.com/mcpmux/mcp-servers/pull/356) on [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) (5 days ago)
+- [Add gg.unicum-wot-stats-http](https://github.com/mcpmux/mcp-servers/pull/356) on [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) (6 days ago)
 - [✨ add the tournaments section](https://github.com/unicum-gg/unicum.gg/pull/17) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 month ago)
 - [follow the WGUS redirect in get_patches_chains](https://github.com/izeberg/wgus/pull/2) on [izeberg/wgus](https://github.com/izeberg/wgus) (2 months ago)
 - [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
@@ -70,15 +70,15 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 #### ⭐ Recent Stars
 
 - [wot-tools-dev/WorldofTanks-Code](https://github.com/wot-tools-dev/WorldofTanks-Code) -  (1 week ago)
-- [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (2 weeks ago)
+- [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (3 weeks ago)
 - [Rayman223/energy-cost-management](https://github.com/Rayman223/energy-cost-management) - Tracking and calculating energy costs (electricity, gas, water) — multi-household, vanilla PHP 8.4 (1 month ago)
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 month ago)
 - [unicum-gg/unicum.gg-husk](https://github.com/unicum-gg/unicum.gg-husk) -  (1 month ago)
 - [brunojppb/turbo-cache-server](https://github.com/brunojppb/turbo-cache-server) - Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS (1 month ago)
 - [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 month ago)
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (1 month ago)
-- [unicum-gg/wot.src](https://github.com/unicum-gg/wot.src) - Decompiled World of Tanks client sources, one branch per client build (EU, NA, ASIA, CT, RU, PT_RU, CN). Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 month ago)
-- [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - World of Tanks client GUI assets (icons, atlases, flash, videos), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 month ago)
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (2 months ago)
+- [unicum-gg/wot.src](https://github.com/unicum-gg/wot.src) - Decompiled World of Tanks client sources, one branch per client build (EU, NA, ASIA, CT, RU, PT_RU, CN). Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 months ago)
+- [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - World of Tanks client GUI assets (icons, atlases, flash, videos), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
