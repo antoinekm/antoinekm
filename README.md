@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.11.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.11.0), 1 week ago) - Chrome DevTools for coding agents
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.12.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.12.0), today) - Chrome DevTools for coding agents
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.6.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.6.0), 1 week ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 1 week ago) - @tonightpass sdk and tools.
 
