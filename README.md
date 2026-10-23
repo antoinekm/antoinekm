@@ -37,8 +37,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (today)
 - [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 week ago)
 - [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) - Community MCP server definitions for McpMux (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 week ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (2 weeks ago)
@@ -56,16 +56,16 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔨 My recent Pull Requests
 
+- [Add Unicum API](https://github.com/public-apis/public-apis/pull/8352) on [public-apis/public-apis](https://github.com/public-apis/public-apis) (today)
+- [Add unicum.gg to API](https://github.com/leomaurodesenv/game-datasets/pull/55) on [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) (today)
+- [Add Unicum API](https://github.com/paytience/FindAPIs/pull/11) on [paytience/FindAPIs](https://github.com/paytience/FindAPIs) (today)
+- [Add Unicum API](https://github.com/marcelscruz/public-apis/pull/1497) on [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) (today)
 - [Add gg.unicum-wot-stats-http](https://github.com/mcpmux/mcp-servers/pull/356) on [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) (1 week ago)
 - [✨ add the tournaments section](https://github.com/unicum-gg/unicum.gg/pull/17) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 month ago)
 - [follow the WGUS redirect in get_patches_chains](https://github.com/izeberg/wgus/pull/2) on [izeberg/wgus](https://github.com/izeberg/wgus) (2 months ago)
 - [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
 - [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
 - [📝 add contributing guide](https://github.com/unicum-gg/unicum.gg/pull/14) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (3 months ago)
-- [feat(approvals): lead shares a company secret with a sub-agent (human-approved) &#43; revoke](https://github.com/antoinekm/atelier/pull/46) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
-- [feat(approvals): credentials are the company lead&#39;s job and deduped](https://github.com/antoinekm/atelier/pull/45) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
-- [fix(approvals): validate request_credential payload at creation](https://github.com/antoinekm/atelier/pull/44) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
-- [feat(agents): agents fully own their domains, stop escalating domain/business decisions](https://github.com/antoinekm/atelier/pull/43) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 months ago)
 
 #### ⭐ Recent Stars
 
