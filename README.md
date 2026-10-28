@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (today)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (today)
-- [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (2 days ago)
-- [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) - The open-source community directory for discovering developer tools, verified free APIs, AI agents, and dev resources with zero paywalls. (3 days ago)
-- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (4 days ago)
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (1 day ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
+- [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (3 days ago)
+- [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) - The open-source community directory for discovering developer tools, verified free APIs, AI agents, and dev resources with zero paywalls. (4 days ago)
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (5 days ago)
 - [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) - Community MCP server definitions for McpMux (1 week ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (2 weeks ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (3 weeks ago)
@@ -50,28 +50,28 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.7.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.7.0), today) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.12.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.12.0), 5 days ago) - Chrome DevTools for coding agents
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.7.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.7.0), 1 day ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.12.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.12.0), 6 days ago) - Chrome DevTools for coding agents
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 2 weeks ago) - @tonightpass sdk and tools.
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) ([v1.1.0](https://github.com/RitualDev-Lab/DevShelf/releases/tag/v1.1.0), 2 weeks ago) - The open-source community directory for discovering developer tools, verified free APIs, AI agents, and dev resources with zero paywalls.
 
 #### 🔨 My recent Pull Requests
 
-- [Add Unicum to Games &amp; Comics](https://github.com/public-api-lists/public-api-lists/pull/856) on [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) (1 day ago)
-- [Add Unicum API](https://github.com/public-apis/public-apis/pull/8352) on [public-apis/public-apis](https://github.com/public-apis/public-apis) (4 days ago)
-- [Add unicum.gg to API](https://github.com/leomaurodesenv/game-datasets/pull/55) on [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) (4 days ago)
-- [Add Unicum API](https://github.com/paytience/FindAPIs/pull/11) on [paytience/FindAPIs](https://github.com/paytience/FindAPIs) (4 days ago)
-- [Add Unicum API](https://github.com/marcelscruz/public-apis/pull/1497) on [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) (4 days ago)
+- [Add Unicum to Games &amp; Comics](https://github.com/public-api-lists/public-api-lists/pull/856) on [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) (2 days ago)
+- [Add Unicum API](https://github.com/public-apis/public-apis/pull/8352) on [public-apis/public-apis](https://github.com/public-apis/public-apis) (5 days ago)
+- [Add unicum.gg to API](https://github.com/leomaurodesenv/game-datasets/pull/55) on [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) (5 days ago)
+- [Add Unicum API](https://github.com/paytience/FindAPIs/pull/11) on [paytience/FindAPIs](https://github.com/paytience/FindAPIs) (5 days ago)
+- [Add Unicum API](https://github.com/marcelscruz/public-apis/pull/1497) on [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) (5 days ago)
 - [Add gg.unicum-wot-stats-http](https://github.com/mcpmux/mcp-servers/pull/356) on [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) (1 week ago)
 - [✨ add the tournaments section](https://github.com/unicum-gg/unicum.gg/pull/17) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (1 month ago)
 - [follow the WGUS redirect in get_patches_chains](https://github.com/izeberg/wgus/pull/2) on [izeberg/wgus](https://github.com/izeberg/wgus) (2 months ago)
-- [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
-- [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (3 months ago)
+- [fix(capability-guide): require howToObtain as numbered steps with exact links](https://github.com/antoinekm/atelier/pull/48) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 months ago)
+- [fix(inbox): opening an approval clears its unread dot](https://github.com/antoinekm/atelier/pull/47) on [antoinekm/atelier](https://github.com/antoinekm/atelier) (4 months ago)
 
 #### ⭐ Recent Stars
 
 - [wot-tools-dev/WorldofTanks-Code](https://github.com/wot-tools-dev/WorldofTanks-Code) -  (2 weeks ago)
-- [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (3 weeks ago)
+- [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (4 weeks ago)
 - [Rayman223/energy-cost-management](https://github.com/Rayman223/energy-cost-management) - Tracking and calculating energy costs (electricity, gas, water) — multi-household, vanilla PHP 8.4 (1 month ago)
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 month ago)
 - [unicum-gg/unicum.gg-husk](https://github.com/unicum-gg/unicum.gg-husk) -  (1 month ago)
