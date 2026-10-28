@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.7.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.7.0), 1 day ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.7.1](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.7.1), today) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.12.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.12.0), 6 days ago) - Chrome DevTools for coding agents
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 2 weeks ago) - @tonightpass sdk and tools.
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) ([v1.1.0](https://github.com/RitualDev-Lab/DevShelf/releases/tag/v1.1.0), 2 weeks ago) - The open-source community directory for discovering developer tools, verified free APIs, AI agents, and dev resources with zero paywalls.
@@ -83,8 +83,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👯 Check out some of my recent followers
 
+- [MatthewMacri](https://github.com/MatthewMacri)
 - [kpopdev](https://github.com/kpopdev)
 - [vibheksoni](https://github.com/vibheksoni)
 - [IDouble](https://github.com/IDouble)
 - [AbdulBasit2733](https://github.com/AbdulBasit2733)
-- [sidkey](https://github.com/sidkey)
