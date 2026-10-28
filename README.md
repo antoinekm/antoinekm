@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (today)
 - [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (1 day ago)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (3 days ago)
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) - The open-source community directory for discovering developer tools, verified free APIs, AI agents, and dev resources with zero paywalls. (4 days ago)
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (5 days ago)
@@ -70,6 +70,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [Battle-Conquest/battle-conquest-mod](https://github.com/Battle-Conquest/battle-conquest-mod) - World of Tanks client mod that reports your battles to Battle-Conquest (capture core derived from unicum.gg-mod, AGPL-3.0) (today)
 - [wot-tools-dev/WorldofTanks-Code](https://github.com/wot-tools-dev/WorldofTanks-Code) -  (2 weeks ago)
 - [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (4 weeks ago)
 - [Rayman223/energy-cost-management](https://github.com/Rayman223/energy-cost-management) - Tracking and calculating energy costs (electricity, gas, water) — multi-household, vanilla PHP 8.4 (1 month ago)
@@ -79,7 +80,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (1 month ago)
 - [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (2 months ago)
 - [unicum-gg/wot.src](https://github.com/unicum-gg/wot.src) - Decompiled World of Tanks client sources, one branch per client build (EU, NA, ASIA, CT, RU, PT_RU, CN). Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 months ago)
-- [unicum-gg/wot.assets](https://github.com/unicum-gg/wot.assets) - World of Tanks client GUI assets (icons, atlases, flash, videos), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
