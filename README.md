@@ -70,6 +70,8 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### ⭐ Recent Stars
 
+- [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway. (today)
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports (today)
 - [Battle-Conquest/battle-conquest-mod](https://github.com/Battle-Conquest/battle-conquest-mod) - World of Tanks client mod that reports your battles to Battle-Conquest (capture core derived from unicum.gg-mod, AGPL-3.0) (6 days ago)
 - [wot-tools-dev/WorldofTanks-Code](https://github.com/wot-tools-dev/WorldofTanks-Code) -  (3 weeks ago)
 - [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (1 month ago)
@@ -78,8 +80,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [unicum-gg/unicum.gg-husk](https://github.com/unicum-gg/unicum.gg-husk) -  (1 month ago)
 - [brunojppb/turbo-cache-server](https://github.com/brunojppb/turbo-cache-server) - Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS (1 month ago)
 - [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 months ago)
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (2 months ago)
-- [unicum-gg/wot.src](https://github.com/unicum-gg/wot.src) - Decompiled World of Tanks client sources, one branch per client build (EU, NA, ASIA, CT, RU, PT_RU, CN). Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
