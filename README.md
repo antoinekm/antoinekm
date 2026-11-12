@@ -37,22 +37,22 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (today)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (5 days ago)
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 day ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (6 days ago)
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (2 weeks ago)
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) - The open-source community directory for discovering developer tools, verified free APIs, AI agents, and dev resources with zero paywalls. (2 weeks ago)
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (2 weeks ago)
-- [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) - Community MCP server definitions for McpMux (3 weeks ago)
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (4 weeks ago)
+- [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) - Community MCP server definitions for McpMux (4 weeks ago)
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
 - [unicum-gg/wot.models](https://github.com/unicum-gg/wot.models) - World of Tanks vehicle geometry (armor collision, visual models as glTF, textures), one branch per client build. Extracted from the update CDN by unicum-gg/wot.build, no game client installed. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.13.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.13.0), today) - Chrome DevTools for coding agents
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.9.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.9.0), 2 days ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
-- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 4 weeks ago) - @tonightpass sdk and tools.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.13.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.13.0), 1 day ago) - Chrome DevTools for coding agents
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.9.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.9.0), 3 days ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
+- [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 1 month ago) - @tonightpass sdk and tools.
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) ([v1.1.0](https://github.com/RitualDev-Lab/DevShelf/releases/tag/v1.1.0), 1 month ago) - The open-source community directory for discovering developer tools, verified free APIs, AI agents, and dev resources with zero paywalls.
 
 #### 🔨 My recent Pull Requests
@@ -65,12 +65,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [Add unicum.gg to API](https://github.com/leomaurodesenv/game-datasets/pull/55) on [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) (2 weeks ago)
 - [Add Unicum API](https://github.com/paytience/FindAPIs/pull/11) on [paytience/FindAPIs](https://github.com/paytience/FindAPIs) (2 weeks ago)
 - [Add Unicum API](https://github.com/marcelscruz/public-apis/pull/1497) on [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) (2 weeks ago)
-- [Add gg.unicum-wot-stats-http](https://github.com/mcpmux/mcp-servers/pull/356) on [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) (3 weeks ago)
+- [Add gg.unicum-wot-stats-http](https://github.com/mcpmux/mcp-servers/pull/356) on [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) (4 weeks ago)
 - [✨ add the tournaments section](https://github.com/unicum-gg/unicum.gg/pull/17) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (1 day ago)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 days ago)
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway. (1 week ago)
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports (1 week ago)
 - [Battle-Conquest/battle-conquest-mod](https://github.com/Battle-Conquest/battle-conquest-mod) - World of Tanks client mod that reports your battles to Battle-Conquest (capture core derived from unicum.gg-mod, AGPL-3.0) (2 weeks ago)
@@ -78,7 +78,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (1 month ago)
 - [Rayman223/energy-cost-management](https://github.com/Rayman223/energy-cost-management) - Tracking and calculating energy costs (electricity, gas, water) — multi-household, vanilla PHP 8.4 (1 month ago)
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 month ago)
-- [unicum-gg/unicum.gg-husk](https://github.com/unicum-gg/unicum.gg-husk) -  (1 month ago)
+- [unicum-gg/unicum.gg-husk](https://github.com/unicum-gg/unicum.gg-husk) -  (2 months ago)
 - [brunojppb/turbo-cache-server](https://github.com/brunojppb/turbo-cache-server) - Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS (2 months ago)
 
 #### 👯 Check out some of my recent followers
