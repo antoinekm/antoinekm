@@ -85,6 +85,6 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 - [boldotter921](https://github.com/boldotter921)
 - [a4hmad1](https://github.com/a4hmad1)
-- [MatthewMacri](https://github.com/MatthewMacri)
 - [kpopdev](https://github.com/kpopdev)
 - [vibheksoni](https://github.com/vibheksoni)
+- [IDouble](https://github.com/IDouble)
