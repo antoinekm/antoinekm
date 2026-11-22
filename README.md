@@ -37,12 +37,12 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (3 days ago)
-- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (4 days ago)
-- [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (3 weeks ago)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (1 day ago)
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (4 days ago)
+- [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (5 days ago)
+- [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (4 weeks ago)
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) - The premier curated developer directory and resource catalog for developer tools, AI productivity APIs, open-source libraries, and SaaS utilities. (4 weeks ago)
-- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (4 weeks ago)
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (1 month ago)
 - [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) - Community MCP server definitions for McpMux (1 month ago)
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) - @tonightpass sdk and tools. (1 month ago)
 - [onRuntime/onruntime](https://github.com/onRuntime/onruntime) -  (1 month ago)
@@ -50,21 +50,21 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.10.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.10.0), 3 days ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
+- [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.10.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.10.0), 4 days ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.13.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.13.0), 1 week ago) - Chrome DevTools for coding agents
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 1 month ago) - @tonightpass sdk and tools.
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) ([v1.1.0](https://github.com/RitualDev-Lab/DevShelf/releases/tag/v1.1.0), 1 month ago) - The premier curated developer directory and resource catalog for developer tools, AI productivity APIs, open-source libraries, and SaaS utilities.
 
 #### 🔨 My recent Pull Requests
 
-- [💚 fix the import check failing on the gitignored local settings](https://github.com/unicum-gg/unicum.gg-mod/pull/11) on [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) (2 weeks ago)
-- [🐛 fix the master switch stopping the battle uploads](https://github.com/unicum-gg/unicum.gg-mod/pull/10) on [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) (2 weeks ago)
-- [✨ add replace the battle-sharing box with one that hides the battle list](https://github.com/unicum-gg/unicum.gg-mod/pull/9) on [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) (2 weeks ago)
+- [💚 fix the import check failing on the gitignored local settings](https://github.com/unicum-gg/unicum.gg-mod/pull/11) on [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) (3 weeks ago)
+- [🐛 fix the master switch stopping the battle uploads](https://github.com/unicum-gg/unicum.gg-mod/pull/10) on [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) (3 weeks ago)
+- [✨ add replace the battle-sharing box with one that hides the battle list](https://github.com/unicum-gg/unicum.gg-mod/pull/9) on [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) (3 weeks ago)
 - [Add Unicum to Games &amp; Comics](https://github.com/public-api-lists/public-api-lists/pull/856) on [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) (3 weeks ago)
-- [Add Unicum API](https://github.com/public-apis/public-apis/pull/8352) on [public-apis/public-apis](https://github.com/public-apis/public-apis) (4 weeks ago)
-- [Add unicum.gg to API](https://github.com/leomaurodesenv/game-datasets/pull/55) on [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) (4 weeks ago)
-- [Add Unicum API](https://github.com/paytience/FindAPIs/pull/11) on [paytience/FindAPIs](https://github.com/paytience/FindAPIs) (4 weeks ago)
-- [Add Unicum API](https://github.com/marcelscruz/public-apis/pull/1497) on [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) (4 weeks ago)
+- [Add Unicum API](https://github.com/public-apis/public-apis/pull/8352) on [public-apis/public-apis](https://github.com/public-apis/public-apis) (1 month ago)
+- [Add unicum.gg to API](https://github.com/leomaurodesenv/game-datasets/pull/55) on [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) (1 month ago)
+- [Add Unicum API](https://github.com/paytience/FindAPIs/pull/11) on [paytience/FindAPIs](https://github.com/paytience/FindAPIs) (1 month ago)
+- [Add Unicum API](https://github.com/marcelscruz/public-apis/pull/1497) on [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) (1 month ago)
 - [Add gg.unicum-wot-stats-http](https://github.com/mcpmux/mcp-servers/pull/356) on [mcpmux/mcp-servers](https://github.com/mcpmux/mcp-servers) (1 month ago)
 - [✨ add the tournaments section](https://github.com/unicum-gg/unicum.gg/pull/17) on [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) (2 months ago)
 
