@@ -37,9 +37,9 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 👷 Check out what I'm currently working on
 
-- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (today)
-- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
 - [unicum-gg/wot.build](https://github.com/unicum-gg/wot.build) - Builds the World of Tanks mirrors (sources, GUI assets and minimaps) straight from the update CDN, with no game client installed. (today)
+- [unicum-gg/unicum.gg](https://github.com/unicum-gg/unicum.gg) - World of Tanks stats tracker. Player profiles, clan pages, WN7/WN8/WNX ratings and clan history across EU, NA and ASIA. (today)
+- [wgmods-dev/wgmods.dev](https://github.com/wgmods-dev/wgmods.dev) - The comprehensive documentation hub for Wargaming games modding (1 day ago)
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters. (1 week ago)
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (1 month ago)
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) - The premier curated developer directory and resource catalog for developer tools, AI productivity APIs, open-source libraries, and SaaS utilities. (1 month ago)
@@ -50,7 +50,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 
 #### 🔭 Latest releases I've contributed to
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.14.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.14.0), 2 days ago) - Chrome DevTools for coding agents
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ([chrome-devtools-mcp-v1.14.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.14.0), 3 days ago) - Chrome DevTools for coding agents
 - [unicum-gg/unicum.gg-mod](https://github.com/unicum-gg/unicum.gg-mod) ([v0.10.0](https://github.com/unicum-gg/unicum.gg-mod/releases/tag/v0.10.0), 1 week ago) - World of Tanks client mod for unicum.gg. Language flags on Stronghold clan and player rosters.
 - [tonightpass/tonightpass](https://github.com/tonightpass/tonightpass) ([@tonightpass/react@0.1.5](https://github.com/tonightpass/tonightpass/releases/tag/%40tonightpass/react%400.1.5), 1 month ago) - @tonightpass sdk and tools.
 - [RitualDev-Lab/DevShelf](https://github.com/RitualDev-Lab/DevShelf) ([v1.1.0](https://github.com/RitualDev-Lab/DevShelf/releases/tag/v1.1.0), 1 month ago) - The premier curated developer directory and resource catalog for developer tools, AI productivity APIs, open-source libraries, and SaaS utilities.
@@ -73,7 +73,7 @@ I'm Antoine Kingue, **Full Stack Developer** and **Amateur Designer**.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 weeks ago)
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway. (3 weeks ago)
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports (3 weeks ago)
-- [Battle-Conquest/battle-conquest-mod](https://github.com/Battle-Conquest/battle-conquest-mod) - World of Tanks client mod that reports your battles to Battle-Conquest (capture core derived from unicum.gg-mod, AGPL-3.0) (4 weeks ago)
+- [Battle-Conquest/battle-conquest-mod](https://github.com/Battle-Conquest/battle-conquest-mod) - World of Tanks client mod that reports your battles to Battle-Conquest (capture core derived from unicum.gg-mod, AGPL-3.0) (1 month ago)
 - [wot-tools-dev/WorldofTanks-Code](https://github.com/wot-tools-dev/WorldofTanks-Code) -  (1 month ago)
 - [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions. (1 month ago)
 - [Rayman223/energy-cost-management](https://github.com/Rayman223/energy-cost-management) - Tracking and calculating energy costs (electricity, gas, water) — multi-household, vanilla PHP 8.4 (2 months ago)
